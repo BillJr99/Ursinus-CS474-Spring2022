@@ -26,4 +26,4 @@ In this assignment, you will watch the Mother of All Demos [video (also shown be
 4. Engelbart called his design an "augmentation system."  What do you think he was hoping to augment?
 5. What is meant by the term "collective memory," and what significance does Douglas Engelbart's demo and career have with respect to our collective memory?
 
-<iframe src="https://dougengelbart.org/content/view/374/" width="100%"></iframe>
+<iframe src="https://dougengelbart.org/content/view/374/" width="100%" height="800"></iframe>
