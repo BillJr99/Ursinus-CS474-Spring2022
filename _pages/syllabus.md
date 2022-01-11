@@ -75,7 +75,12 @@ info:
         </div>
     </div>
     </div>
-    
+  miscpolicies:
+    - title: "Attendance Policy"
+      body: "It is anticipated that all classes in Spring 2022 will take place in-person. Remote teaching will only be allowed in extenuating and short-term circumstances. Students who are unable to attend class due to quarantine, isolation, or Covid-like symptoms in advance of test results should contact their instructors to make up work they have missed. Ursinus students are expected to attend class regularly and may receive penalties, including failing grades, for excessive non-health related absences. The Office of Academic Affairs, the Office of Student Affairs, and the Wellness Center do not provide excused absences from class.  Students experiencing significant health problems or other issues that may prevent them from performing adequately in their academic work and/or attending class for a number of days should notify the Institute for Student Success (Stephanie Stefanik, sstefanik@ursinus.edu; 610-409-3472), which can assist students with faculty notifications. Students who wish to discuss reasonable accommodations can contact Dr. Dee Singley (dsingley@ursinus.edu)."
+    - title: "Masking Guidelines"
+      body: "Students are expected to follow any college policy requiring mask wearing on campus, in addition to following any guidance faculty provide for their individual classes. Masks should be available in every academic building, if needed."
+      
 instructors:
 - name: William Mongan
   title: Professor
