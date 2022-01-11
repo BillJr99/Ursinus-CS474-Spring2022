@@ -118,7 +118,14 @@ textbooks:
   link: https://ursinus.bncollege.com/shop/BNCB_TextbookDetailView?displayStoreId=42559&urlRequestType=Base&catalogId=10001&productId=600006526655&langId=-1&partNumber=MBS_1691218&storeId=42559&sectionId=107174753&item=N
   isrequired: true   
   image: https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1591847788.gif
-
+- title: "The Age of Surveillance Capitalism"
+  isrequired: false
+  authors: "Shoshana Zuboff"
+  edition: "1st Edition"
+  isbn: "978-1610395694"
+  link: https://smile.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697
+  image: https://images-na.ssl-images-amazon.com/images/I/41TGOadjwHL._SX316_BO1,204,203,200_.jpg
+  
 objectives:
 - objective: "To methodically evaluate the interface design elements for effective human-computer interaction"
 - objective: "To critically evaluate the ways in which technology leverage or exploit human psychology and physiology"
@@ -127,19 +134,18 @@ objectives:
 
 goals:
 - goal: "To employ the techniques studied in this course to create systems that empower people for the benefit of human safety and wellbeing"
+- goal: "To utilize multiple physiological modalities to facilitate accessible human interfaces and interactions"
 
 grade_breakdown:
 - category: "Programming Assignments"
   weight: "35%"
-- category: "Labs"
-  weight: "25%"
-- category: "Pre-Lab Exercises"
-  weight: "15%"
-- category: "Quizzes"
-  weight: "10%"  
-- category: "Debugging Table"
-  weight: "5%"
+- category: "Written Assignments"
+  weight: "20%"
+- category: "Reading Reflections"
+  weight: "10%"
 - category: "Final Project"
+  weight: "25%" 
+- category: "Research Report"
   weight: "10%"  
 
 letter_grades:
@@ -174,7 +180,228 @@ schedule:
 - week: "0"
   date: "1"
   title: "Course Overview"
-      
+- week: "0"
+  date: "2"
+  title: ""  
+  readings:
+  - rtitle: "As We May Think"
+    rlink: "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
+  deliverables:
+  - dtitle: "Written Assignment: The Mother of All Demos Handed Out"
+    dlink: "Assignments/Written/MOAD"  
+    points: 100  
+    submission_types: "written"       
+- week: "1"
+  date: "0"
+  title: "" 
+  readings:
+  - rtitle: "Schalk, Z.  Humans in Control: Thoughts on the Past, Present, and Future of HCI"
+    rlink: "https://blogs.commons.georgetown.edu/cctp-797-fall2013/archives/807" 
+- week: "1"
+  date: "1"
+  title: ""     
+  readings:  
+  - rtitle: "50 Years Later, We Still Don't Grasp the Mother of All Demos"
+    rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"    
+- week: "1"
+  date: "2"
+  title: ""   
+  readings:
+  - rtitle: "It's not you.  Phones are designed to be addicting."
+    rlink: "https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple"   
+  deliverables:
+  - dtitle: "Written Assignment: The Mother of All Demos Due"
+    dlink: "Assignments/Written/MOAD"  
+    points: 100  
+    submission_types: "written"   
+- week: "2"
+  date: "0"
+  title: "The Way We Interact - Affordance and Signifiers" 
+  readings:
+  - rtitle: "EU mulls five-year ban on facial recognition tech in public areas"
+    rlink: "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL"
+  - rtitle: "What are Affordances?"
+    rlink: "https://www.interaction-design.org/literature/topics/affordances"  
+  - rtitle: "What are Signifiers?"
+    rlink: "https://www.interaction-design.org/literature/topics/signifiers"    
+- week: "2"
+  date: "1"
+  title: "" 
+  readings:
+  - rtitle: "Fresh Cambridge Analytica leak 'shows global manipulation is out of control'"
+    rlink: "https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation"    
+- week: "2"
+  date: "2"
+  title: "Dark Patterns"
+  readings:
+  - rtitle: "Types of Dark Patterns"
+    rlink: "https://www.darkpatterns.org/types-of-dark-pattern"  
+- week: "3"
+  date: "0"
+  title: ""  
+  readings:
+  - rtitle: "A cartoon Mark Zuckerberg toured hurricane-struck Puerto Rico in virtual reality"
+    rlink: "https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane"   
+- week: "3"
+  date: "1"
+  title: ""   
+  readings:
+  - rtitle: "Mind-Controlled VR Game Really Works"
+    rlink: "https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/"    
+- week: "3"
+  date: "2"
+  title: ""
+  readings:
+  - rtitle: "ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says"
+    rlink: "https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says"    
+- week: "4"
+  date: "0"
+  title: "Designing the User Experience (UX)"  
+  readings:
+  - rtitle: "Intro to UX: the Norman door"
+    rlink: "https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086"   
+- week: "4"
+  date: "1"
+  title: "" 
+  readings:
+  - rtitle: "The Formula for Phone Addiction Might Double As a Cure"
+    rlink: "https://www.wired.com/story/phone-addiction-formula/"  
+- week: "4"
+  date: "2"
+  title: ""
+  readings:
+  - rtitle: "The US military is trying to read minds"
+    rlink: "https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/"    
+- week: "5"
+  date: "0"
+  title: "Augmented Reality"     
+  readings:
+  - rtitle: "Stanford Seminar - Augmented Reality and Accessibility"
+    rlink: "https://www.youtube.com/watch?v=lBq-WjXmTDo"  
+- week: "5"
+  date: "1"
+  title: ""  
+  readings:
+  - rtitle: "How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist"
+    rlink: "https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3"   
+- week: "5"
+  date: "2"
+  title: "Accessibility"
+  readings:
+  - rtitle: "Accessible Design for Users With Disabilities"
+    rlink: "https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/"     
+- week: "6"
+  date: "0"
+  title: ""
+  readings:
+  - rtitle: "The Bias Blind Spot and Unconscious Bias in Design"
+    rlink: "https://www.interaction-design.org/literature/article/the-bias-blind-spot-and-unconscious-bias-in-design"  
+- week: "6"
+  date: "1"
+  title: ""  
+  readings:
+  - rtitle: "Robot Rights? Let's Talk about Human Welfare Instead"
+    rlink: "https://arxiv.org/abs/2001.05046v1"   
+- week: "6"
+  date: "2"
+  title: ""
+  readings:
+  - rtitle: "A Code of Ethics for the Human-Robot Interaction Profession"
+    rlink: "https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf"   
+- week: "8"
+  date: "0"
+  title: "" 
+  readings:
+  - rtitle: "What Ethics Should Guide the Use of Robots in Policing?"
+    rlink: "https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing"  
+- week: "8"
+  date: "1"
+  title: "Design Principles"     
+  readings:
+  - rtitle: "Types of Design Principles"
+    rlink: "https://www.interaction-design.org/literature/topics/design-principles"  
+- week: "8"
+  date: "2"
+  title: ""
+  readings:
+  - rtitle: "Evil by Design"
+    rlink: "https://evilbydesign.info/"  
+- week: "9"
+  date: "0"
+  title: ""
+  readings:
+  - rtitle: "You Snooze, You Lose: Insurers Make The Old Adage Literally True"
+    rlink: "https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true"   
+- week: "9"
+  date: "1"
+  title: "" 
+  readings:
+  - rtitle: "How US Tech Giants are Helping to Build China's Surveillance State"
+    rlink: "https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/"    
+- week: "9"
+  date: "2"
+  title: ""
+  readings:
+  - rtitle: "Boeing 737 Max Safety System Was Vetoed, Engineer Says"
+    rlink: "https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html" 
+- week: "10"
+  date: "0"
+  title: ""  
+  readings:
+  - rtitle: "Norman and Nielson - Gestural Interfaces: A Step Backward In Usability"
+    rlink: "http://manoa.hawaii.edu/hci/readings/interactions2010_norman_nielsen.pdf"  
+- week: "10"
+  date: "1"
+  title: ""   
+  readings:
+  - rtitle: "How Robot Carers could be the Future for Lonely Elderly People"
+    rlink: "https://www.independent.co.uk/life-style/gadgets-and-tech/features/robot-carer-elderly-people-loneliness-ageing-population-care-homes-a8659801.html"   
+- week: "10"
+  date: "2"
+  title: ""
+  readings:
+  - rtitle: "The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs"
+    rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"   
+- week: "11"
+  date: "0"
+  title: ""     
+- week: "11"
+  date: "1"
+  title: ""     
+- week: "11"
+  date: "2"
+  title: ""
+- week: "12"
+  date: "0"
+  title: ""     
+- week: "12"
+  date: "1"
+  title: ""     
+- week: "12"
+  date: "2"
+  title: ""
+- week: "13"
+  date: "0"
+  title: ""     
+- week: "13"
+  date: "1"
+  title: ""     
+- week: "13"
+  date: "2"
+  title: ""
+- week: "14"
+  date: "0"
+  title: ""     
+- week: "14"
+  date: "1"
+  title: ""     
+- week: "14"
+  date: "2"
+  title: ""
+- week: "15"
+  date: "0"
+  title: ""       
+  
 university:
   semester: "Fall"
   academicyear: "2021-22"
@@ -250,4 +477,4 @@ university:
   
 ---
 
-Welcome to CS474!
+Welcome to CS474!  Some material has been adapted from [Dr. Alvin Grissom's 2020 HCI course](https://github.com/acgrissom/courses/blob/master/2020-hci/syllabus.md).
