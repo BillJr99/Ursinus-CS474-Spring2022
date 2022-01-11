@@ -403,7 +403,7 @@ schedule:
   title: ""       
   
 university:
-  semester: "Fall"
+  semester: "Spring"
   academicyear: "2021-22"
   fall:
   - kname: "Add Deadline"
