@@ -1,6 +1,6 @@
 ---
 layout: assignment
-permalink: /Assignments/Programming/Voice Prompt
+permalink: /Assignments/Programming/VoicePrompt
 title: "CS474: Human Computer Interaction - Voice Prompts"
 excerpt: "CS474: Human Computer Interaction - Voice Prompts"
 
@@ -57,7 +57,7 @@ tags:
 In this assignment [[^1]], you will incorporate the [Speech Recognition for Voice Prompts](../Activities/VoicePrompt) program we explored in class into a user application.  Specifically, you will write a program to solve one of two problems:
 
 * Find a common time to meet with a group of people, given a text file containing their weekly availabilities
-* Play a role-playing game in which users explore a maze of connected rooms, encounter conflicts, and obtain treasure
+* Play a role-playing game in which users explore a maze of connected rooms (use a dictionary or hash table structure to manage your collection of rooms), encounter conflicts, and obtain treasure
 
 Your solution should utilize only a voice modality.  In other words, no text should be displayed to the screen (or, if it is, it should not be relied upon by the user to operate the program).  Careful consideration should be given to the workflow of the use case: I suggest creating a flowchart prior to implementing your solution that describes what, how, and when you will obtain feedback from the user at each step in your program.  The goal is to create a seamless experience for the user without requiring a keyboard, mouse, or visual cues.  Specifically, there are a few considerations that you should keep in mind and document:
 
