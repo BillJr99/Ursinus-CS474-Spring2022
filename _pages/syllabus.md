@@ -395,7 +395,12 @@ schedule:
   title: ""
   readings:
   - rtitle: "The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs"
-    rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"   
+    rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world" 
+  deliverables:
+  - dtitle: "Research Report: Research Report Handed Out"
+    dlink: "Projects/Report"    
+    points: 100  
+    submission_types: "written"     
 - week: "11"
   date: "0"
   title: ""   
@@ -411,12 +416,7 @@ schedule:
   title: "" 
   readings:
   - rtitle: "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change"
-    rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581"     
-  deliverables:
-  - dtitle: "Research Report: Research Report Handed Out"
-    dlink: "Projects/Report"    
-    points: 100  
-    submission_types: "written"      
+    rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581"          
 - week: "11"
   date: "2"
   title: ""
@@ -463,23 +463,23 @@ schedule:
 - week: "13"
   date: "2"
   title: ""
-- week: "14"
-  date: "0"
-  title: ""     
-- week: "14"
-  date: "1"
-  title: ""     
-- week: "14"
-  date: "2"
-  title: ""
   deliverables:
   - dtitle: "Research Report: Research Report Due"
     dlink: "Projects/Report"    
     points: 100      
-    submission_types: "written"      
+    submission_types: "written"   
+- week: "14"
+  date: "0"
+  title: "Research Report Final Presentation and Discussion"     
+- week: "14"
+  date: "1"
+  title: "Research Report Final Presentation and Discussion"     
+- week: "14"
+  date: "2"
+  title: "Research Report Final Presentation and Discussion"     
 - week: "15"
   date: "0"
-  title: ""       
+  title: "Research Report Final Presentation and Discussion"       
   deliverables:
   - dtitle: "Final Project: Project and Presentation Due"
     dlink: "Projects/Final"    
