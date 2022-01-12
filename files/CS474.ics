@@ -436,7 +436,7 @@ DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Reading Reflective Journal: Second Notebook Check Handed Out
+DESCRIPTION:\nReading: Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165\nDeliverable: Reading Reflective Journal: Second Notebook Check Handed Out
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -454,7 +454,7 @@ DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Research Report: Research Report Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+DESCRIPTION:\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581\nDeliverable: Research Report: Research Report Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -463,7 +463,7 @@ DTSTAMP:20220408T000000Z
 DTSTART;VALUE=DATE:20220408
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:\nReading: Reference Man - Everything is designed for this man, even drugs https://www.youtube.com/watch?v=CVdn-2KE2bs
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -490,7 +490,7 @@ DTSTAMP:20220411T000000Z
 DTSTART;VALUE=DATE:20220411
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Reading Reflective Journal: Second Notebook Check Due\nDeliverable: Final Project: Project and Presentation Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
+DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/\nDeliverable: Reading Reflective Journal: Second Notebook Check Due\nDeliverable: Final Project: Project and Presentation Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -499,7 +499,7 @@ DTSTAMP:20220413T000000Z
 DTSTART;VALUE=DATE:20220413
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:\nReading: Microsoft AI Principles https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -508,7 +508,7 @@ DTSTAMP:20220415T000000Z
 DTSTART;VALUE=DATE:20220415
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patients https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/\nReading: Dissecting racial bias in an algorithm used to manage the health of populations https://www.science.org/doi/10.1126/science.aax2342
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
