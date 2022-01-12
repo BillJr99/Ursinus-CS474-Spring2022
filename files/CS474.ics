@@ -193,7 +193,7 @@ DTSTAMP:20220202T000000Z
 DTSTART;VALUE=DATE:20220202
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Fresh Cambridge Analytica leak 'shows global manipulation is out of control' https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation
+DESCRIPTION:\nReading: Fresh Cambridge Analytica leak 'shows global manipulation is out of control' https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation\nReading: Eyal Ch. 1
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -202,7 +202,7 @@ DTSTAMP:20220204T000000Z
 DTSTART;VALUE=DATE:20220204
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Types of Dark Patterns https://www.darkpatterns.org/types-of-dark-pattern\nReading: Eyal Ch. 1
+DESCRIPTION:\nReading: Types of Dark Patterns https://www.darkpatterns.org/types-of-dark-pattern\nReading: Dark Patterns - the Worst Counterexamples of User Experience Design https://medium.com/@maud.im.marechal/darkpatterns-c938502cee49
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -535,7 +535,7 @@ DTSTAMP:20220420T000000Z
 DTSTART;VALUE=DATE:20220420
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
+DESCRIPTION:\nReading: Gonzales-Cameron, A. - Hello, My Name is Error https://alistapart.com/article/hello-my-name-is-error/\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
