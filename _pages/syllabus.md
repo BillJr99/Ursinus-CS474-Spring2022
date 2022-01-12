@@ -288,6 +288,7 @@ schedule:
     rlink: "https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086"
   deliverables:
   - dtitle: "Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out"    
+    dlink: "Assignments/Reflections/NotebookCheck"
     points: 10
     submission_types: "onpaper"          
 - week: "4"
@@ -310,6 +311,7 @@ schedule:
     rlink: "https://www.youtube.com/watch?v=lBq-WjXmTDo"
   deliverables:
   - dtitle: "Reading Reflective Journal: First Notebook and Discussion Board Check Due"    
+    dlink: "Assignments/Reflections/NotebookCheck"
     points: 10
     submission_types: "onpaper"    
 - week: "5"
@@ -409,6 +411,7 @@ schedule:
     rlink: "https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165"  
   deliverables:
   - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out"    
+    dlink: "Assignments/Reflections/NotebookCheck"
     points: 10
     submission_types: "onpaper"        
 - week: "11"
@@ -459,6 +462,7 @@ schedule:
   title: ""   
   deliverables:
   - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Due"    
+    dlink: "Assignments/Reflections/NotebookCheck"
     points: 10
     submission_types: "onpaper"  
 - week: "13"
