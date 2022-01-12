@@ -256,7 +256,7 @@ DTSTAMP:20220214T000000Z
 DTSTART;VALUE=DATE:20220214
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Intro to UX: the Norman door https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086\nDeliverable: Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out
+DESCRIPTION:\nReading: Intro to UX: the Norman door https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086\nDeliverable: Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -292,7 +292,7 @@ DTSTAMP:20220221T000000Z
 DTSTART;VALUE=DATE:20220221
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Stanford Seminar - Augmented Reality and Accessibility https://www.youtube.com/watch?v=lBq-WjXmTDo\nDeliverable: Reading Reflective Journal: First Notebook and Discussion Board Check Due
+DESCRIPTION:\nReading: Stanford Seminar - Augmented Reality and Accessibility https://www.youtube.com/watch?v=lBq-WjXmTDo\nDeliverable: Reading Reflective Journal: First Notebook and Discussion Board Check Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -445,7 +445,7 @@ DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out
+DESCRIPTION:\nReading: Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -535,7 +535,7 @@ DTSTAMP:20220420T000000Z
 DTSTART;VALUE=DATE:20220420
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Due
+DESCRIPTION:\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
