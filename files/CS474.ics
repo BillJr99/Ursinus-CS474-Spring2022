@@ -245,7 +245,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042814
 DTSTAMP:20220214T000000Z
 DTSTART;VALUE=DATE:20220214
-SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: First Notebook Check Handed Out
+SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -256,7 +256,7 @@ DTSTAMP:20220214T000000Z
 DTSTART;VALUE=DATE:20220214
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Intro to UX: the Norman door https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086\nDeliverable: Reading Reflective Journal: First Notebook Check Handed Out
+DESCRIPTION:\nReading: Intro to UX: the Norman door https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086\nDeliverable: Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042818
 DTSTAMP:20220221T000000Z
 DTSTART;VALUE=DATE:20220221
-SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: First Notebook Check Due
+SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: First Notebook and Discussion Board Check Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -292,7 +292,7 @@ DTSTAMP:20220221T000000Z
 DTSTART;VALUE=DATE:20220221
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Stanford Seminar - Augmented Reality and Accessibility https://www.youtube.com/watch?v=lBq-WjXmTDo\nDeliverable: Reading Reflective Journal: First Notebook Check Due
+DESCRIPTION:\nReading: Stanford Seminar - Augmented Reality and Accessibility https://www.youtube.com/watch?v=lBq-WjXmTDo\nDeliverable: Reading Reflective Journal: First Notebook and Discussion Board Check Due
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042829
 DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
-SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: Second Notebook Check Handed Out
+SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -445,7 +445,7 @@ DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165\nDeliverable: Reading Reflective Journal: Second Notebook Check Handed Out
+DESCRIPTION:\nReading: Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04282d
 DTSTAMP:20220411T000000Z
 DTSTART;VALUE=DATE:20220411
-SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: Second Notebook Check Due
+SUMMARY:CS474 Human Computer Interaction: Final Project: Project and Presentation Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -479,22 +479,13 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04282e
 DTSTAMP:20220411T000000Z
 DTSTART;VALUE=DATE:20220411
-SUMMARY:CS474 Human Computer Interaction: Final Project: Project and Presentation Handed Out
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/\nDeliverable: Final Project: Project and Presentation Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04282f
-DTSTAMP:20220411T000000Z
-DTSTART;VALUE=DATE:20220411
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
-LOCATION:
-DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/\nDeliverable: Reading Reflective Journal: Second Notebook Check Due\nDeliverable: Final Project: Project and Presentation Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042830
 DTSTAMP:20220413T000000Z
 DTSTART;VALUE=DATE:20220413
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -503,7 +494,7 @@ DESCRIPTION:\nReading: Microsoft AI Principles https://www.microsoft.com/en-us/a
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042831
+UID:00000000-0000-0000-0000-044f9e042830
 DTSTAMP:20220415T000000Z
 DTSTART;VALUE=DATE:20220415
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -512,7 +503,7 @@ DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patien
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042832
+UID:00000000-0000-0000-0000-044f9e042831
 DTSTAMP:20220418T000000Z
 DTSTART;VALUE=DATE:20220418
 SUMMARY:CS474 Human Computer Interaction: Final Project: Proposal Due
@@ -521,7 +512,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042833
+UID:00000000-0000-0000-0000-044f9e042832
 DTSTAMP:20220418T000000Z
 DTSTART;VALUE=DATE:20220418
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -530,12 +521,21 @@ DESCRIPTION:\nDeliverable: Final Project: Proposal Due https://www.billmongan.co
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e042833
+DTSTAMP:20220420T000000Z
+DTSTART;VALUE=DATE:20220420
+SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: Second Notebook and Discussion Board Check Due
+LOCATION:
+DESCRIPTION:
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042834
 DTSTAMP:20220420T000000Z
 DTSTART;VALUE=DATE:20220420
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Due
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
