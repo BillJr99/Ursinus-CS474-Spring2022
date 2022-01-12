@@ -183,6 +183,7 @@ schedule:
 - week: "0"
   date: "1"
   title: "Course Overview"
+  link: "/Ursinus-CS474-Overview"
   deliverables:
   - dtitle: "Assignment: Warmup Handed Out"    
     dlink: "Assignments/Written/Warmup"
@@ -471,6 +472,9 @@ schedule:
 - week: "13"
   date: "0"
   title: ""  
+  readings: 
+  - rtitle: "Ackerman, E. - My Fight With a Sidewalk Robot"
+    rlink: "https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities"   
   deliverables:
   - dtitle: "Final Project: Proposal Due"
     dlink: "Projects/Final"    
