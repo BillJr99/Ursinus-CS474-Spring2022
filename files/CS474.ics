@@ -103,7 +103,7 @@ DTSTAMP:20220119T000000Z
 DTSTART;VALUE=DATE:20220119
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Assignment: Warmup Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/Warmup
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022//Ursinus-CS474-Overview\nDeliverable: Assignment: Warmup Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/Warmup
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -517,7 +517,7 @@ DTSTAMP:20220418T000000Z
 DTSTART;VALUE=DATE:20220418
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Final Project: Proposal Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
+DESCRIPTION:\nReading: Ackerman, E. - My Fight With a Sidewalk Robot https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities\nDeliverable: Final Project: Proposal Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
