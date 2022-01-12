@@ -398,14 +398,20 @@ schedule:
     rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"   
 - week: "11"
   date: "0"
-  title: ""     
+  title: ""   
+  readings:
+  - rtitle: "Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities"
+    rlink: "https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165"  
   deliverables:
   - dtitle: "Reading Reflective Journal: Second Notebook Check Handed Out"    
     points: 10
     submission_types: "onpaper"        
 - week: "11"
   date: "1"
-  title: ""   
+  title: "" 
+  readings:
+  - rtitle: "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change"
+    rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581"     
   deliverables:
   - dtitle: "Research Report: Research Report Handed Out"
     dlink: "Projects/Report"    
@@ -414,9 +420,15 @@ schedule:
 - week: "11"
   date: "2"
   title: ""
+  readings: 
+  - rtitle: "Reference Man - Everything is designed for this man, even drugs"
+    rlink: "https://www.youtube.com/watch?v=CVdn-2KE2bs"
 - week: "12"
   date: "0"
   title: ""  
+  readings: 
+  - rtitle: "About the Paper that Forced Timnit Gerbu out of Google"
+    rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"  
   deliverables:
   - dtitle: "Reading Reflective Journal: Second Notebook Check Due"    
     points: 10
@@ -426,10 +438,18 @@ schedule:
     points: 100     
 - week: "12"
   date: "1"
-  title: ""     
+  title: ""  
+  readings: 
+  - rtitle: "Microsoft AI Principles"
+    rlink: "https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6"  
 - week: "12"
   date: "2"
   title: ""
+  readings: 
+  - rtitle: "A Health Care Algorithm Offered Less Care to Black Patients"
+    rlink: "https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/"  
+  - rtitle: "Dissecting racial bias in an algorithm used to manage the health of populations"
+    rlink: "https://www.science.org/doi/10.1126/science.aax2342"      
 - week: "13"
   date: "0"
   title: ""  
