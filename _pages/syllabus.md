@@ -433,6 +433,7 @@ schedule:
 - week: "13"
   date: "0"
   title: ""  
+  deliverables:
   - dtitle: "Final Project: Proposal Due"
     dlink: "Projects/Final"    
     points: 10     
