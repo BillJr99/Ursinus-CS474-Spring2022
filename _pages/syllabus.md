@@ -185,11 +185,16 @@ schedule:
 - week: "0"
   date: "1"
   title: "Course Overview"
+  deliverables:
+  - dtitle: "Written Assignment: Warmup Handed Out"    
+    dlink: "Assignments/Written/Warmup"
+    points: 15
+    submission_types: "onpaper"  
 - week: "0"
   date: "2"
-  title: ""  
+  title: "Course Overview"  
   readings:
-  - rtitle: "As We May Think"
+  - rtitle: "Bush, V. - As We May Think"
     rlink: "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
   deliverables:
   - dtitle: "Written Assignment: The Mother of All Demos Handed Out"
@@ -198,16 +203,22 @@ schedule:
     submission_types: "written"       
 - week: "1"
   date: "0"
-  title: "" 
+  title: "An Example Modality - Voice Prompts" 
+  link: "Activities/VoicePrompt"
   readings:
-  - rtitle: "Schalk, Z.  Humans in Control: Thoughts on the Past, Present, and Future of HCI"
+  - rtitle: "Schalk, Z. - Humans in Control: Thoughts on the Past, Present, and Future of HCI"
     rlink: "https://blogs.commons.georgetown.edu/cctp-797-fall2013/archives/807" 
 - week: "1"
   date: "1"
   title: ""     
   readings:  
   - rtitle: "50 Years Later, We Still Don't Grasp the Mother of All Demos"
-    rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"    
+    rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"  
+  deliverables:
+  - dtitle: "Written Assignment: Warmup Due"    
+    dlink: "Assignments/Written/Warmup"
+    points: 15
+    submission_types: "onpaper"     
 - week: "1"
   date: "2"
   title: ""   
@@ -218,10 +229,15 @@ schedule:
   - dtitle: "Written Assignment: The Mother of All Demos Due"
     dlink: "Assignments/Written/MOAD"  
     points: 100  
-    submission_types: "written"   
+    submission_types: "written" 
 - week: "2"
   date: "0"
-  title: "The Way We Interact - Affordance and Signifiers" 
+  title: "The Way We Interact - Affordances and Signifiers" 
+  deliverables:
+  - dtitle: "Programming Assignment: Voice Prompts Handed Out"
+    dlink: "Assignments/Programming/VoicePrompt"
+    points: 100  
+    rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"  
   readings:
   - rtitle: "EU mulls five-year ban on facial recognition tech in public areas"
     rlink: "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL"
@@ -243,13 +259,18 @@ schedule:
     rlink: "https://www.darkpatterns.org/types-of-dark-pattern"  
 - week: "3"
   date: "0"
-  title: ""  
+  title: ""   
   readings:
   - rtitle: "A cartoon Mark Zuckerberg toured hurricane-struck Puerto Rico in virtual reality"
     rlink: "https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane"   
 - week: "3"
   date: "1"
-  title: ""   
+  title: ""  
+  deliverables:
+  - dtitle: "Programming Assignment: Voice Prompts Due"
+    dlink: "Assignments/Programming/VoicePrompt"
+    points: 100  
+    rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"   
   readings:
   - rtitle: "Mind-Controlled VR Game Really Works"
     rlink: "https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/"    
