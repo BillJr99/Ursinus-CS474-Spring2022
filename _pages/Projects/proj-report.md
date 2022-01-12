@@ -68,4 +68,4 @@ Your paper should be formatted like these examples (note their sections and refe
 Prepare a 10-minute presentation summarizing your paper, which you will submit along with your report and present to the class.  Here are some example academic paper presentations to guide your design:
 
 * [Fusion Learning on Multiple-Tag RFID Measurements for Respiratory Rate Monitoring](https://www.billmongan.com/publication/bibe2020)
-* [https://www.billmongan.com/publication/compsac2021](https://www.billmongan.com/publication/compsac2021)
+* [An Adaptively Parameterized Algorithm Estimating Respiratory Rate from a Passive Wearable RFID Smart Garment](https://www.billmongan.com/publication/compsac2021)
