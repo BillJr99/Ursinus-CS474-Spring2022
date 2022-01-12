@@ -146,7 +146,7 @@ grade_breakdown:
   weight: "35%"
 - category: "Written Assignments"
   weight: "20%"
-- category: "Reading Reflections"
+- category: "Reading Reflective Journals"
   weight: "10%"
 - category: "Final Project"
   weight: "25%" 
@@ -285,7 +285,11 @@ schedule:
   title: "Designing the User Experience (UX)"  
   readings:
   - rtitle: "Intro to UX: the Norman door"
-    rlink: "https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086"   
+    rlink: "https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086"
+  deliverables:
+  - dtitle: "Reading Reflective Journal: First Notebook Check Handed Out"    
+    points: 10
+    submission_types: "onpaper"          
 - week: "4"
   date: "1"
   title: "" 
@@ -303,7 +307,11 @@ schedule:
   title: "Augmented Reality"     
   readings:
   - rtitle: "Stanford Seminar - Augmented Reality and Accessibility"
-    rlink: "https://www.youtube.com/watch?v=lBq-WjXmTDo"  
+    rlink: "https://www.youtube.com/watch?v=lBq-WjXmTDo"
+  deliverables:
+  - dtitle: "Reading Reflective Journal: First Notebook Check Due"    
+    points: 10
+    submission_types: "onpaper"    
 - week: "5"
   date: "1"
   title: ""  
@@ -321,7 +329,7 @@ schedule:
   title: ""
   readings:
   - rtitle: "The Bias Blind Spot and Unconscious Bias in Design"
-    rlink: "https://www.interaction-design.org/literature/article/the-bias-blind-spot-and-unconscious-bias-in-design"  
+    rlink: "https://www.interaction-design.org/literature/article/the-bias-blind-spot-and-unconscious-bias-in-design"           
 - week: "6"
   date: "1"
   title: ""  
@@ -391,15 +399,31 @@ schedule:
 - week: "11"
   date: "0"
   title: ""     
+  deliverables:
+  - dtitle: "Reading Reflective Journal: Second Notebook Check Handed Out"    
+    points: 10
+    submission_types: "onpaper"        
 - week: "11"
   date: "1"
-  title: ""     
+  title: ""   
+  deliverables:
+  - dtitle: "Research Report: Research Report Handed Out"
+    dlink: "Projects/Report"    
+    points: 100  
+    submission_types: "written"      
 - week: "11"
   date: "2"
   title: ""
 - week: "12"
   date: "0"
-  title: ""     
+  title: ""  
+  deliverables:
+  - dtitle: "Reading Reflective Journal: Second Notebook Check Due"    
+    points: 10
+    submission_types: "onpaper"  
+  - dtitle: "Final Project: Project and Presentation Handed Out"
+    dlink: "Projects/Final"    
+    points: 100     
 - week: "12"
   date: "1"
   title: ""     
@@ -408,7 +432,10 @@ schedule:
   title: ""
 - week: "13"
   date: "0"
-  title: ""     
+  title: ""  
+  - dtitle: "Final Project: Proposal Due"
+    dlink: "Projects/Final"    
+    points: 10     
 - week: "13"
   date: "1"
   title: ""     
@@ -424,10 +451,19 @@ schedule:
 - week: "14"
   date: "2"
   title: ""
+  deliverables:
+  - dtitle: "Research Report: Research Report Due"
+    dlink: "Projects/Report"    
+    points: 100      
+    submission_types: "written"      
 - week: "15"
   date: "0"
   title: ""       
-  
+  deliverables:
+  - dtitle: "Final Project: Project and Presentation Due"
+    dlink: "Projects/Final"    
+    points: 100     
+    
 university:
   semester: "Spring"
   academicyear: "2021-22"
