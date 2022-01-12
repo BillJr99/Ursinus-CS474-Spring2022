@@ -252,14 +252,16 @@ schedule:
   readings:
   - rtitle: "Fresh Cambridge Analytica leak 'shows global manipulation is out of control'"
     rlink: "https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation"    
+  - rtitle: "Eyal Ch. 1"
+    rlink: false    
 - week: "2"
   date: "2"
   title: "Dark Patterns"
   readings:
   - rtitle: "Types of Dark Patterns"
     rlink: "https://www.darkpatterns.org/types-of-dark-pattern"  
-  - rtitle: "Eyal Ch. 1"
-    rlink: false
+  - rtitle: "Dark Patterns - the Worst Counterexamples of User Experience Design"
+    rlink: "https://medium.com/@maud.im.marechal/darkpatterns-c938502cee49"
 - week: "3"
   date: "0"
   title: ""   
@@ -481,7 +483,10 @@ schedule:
     points: 10     
 - week: "13"
   date: "1"
-  title: ""   
+  title: ""  
+  readings: 
+  - rtitle: "Gonzales-Cameron, A. - Hello, My Name is Error"
+    rlink: "https://alistapart.com/article/hello-my-name-is-error/"   
   deliverables:
   - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Due"    
     dlink: "Assignments/Reflections/NotebookCheck"
