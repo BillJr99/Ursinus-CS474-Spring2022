@@ -6,7 +6,7 @@ excerpt: "CS474: Human Computer Interaction - Reading Reflection Notebook Check"
 
 info:
   coursenum: CS474
-  points: 100
+  points: 10
   goals:
     - To identify the systems and devices that shaped the way that humans engage with modern technology
     - To motivate the application of human-computer interaction to our collective humanity thorugh the systems to augment the development of augmentation systems

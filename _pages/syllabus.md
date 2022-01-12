@@ -247,16 +247,20 @@ schedule:
     rlink: "https://www.interaction-design.org/literature/topics/signifiers"    
 - week: "2"
   date: "1"
-  title: "" 
+  title: "Psychopathology" 
   readings:
   - rtitle: "Fresh Cambridge Analytica leak 'shows global manipulation is out of control'"
     rlink: "https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation"    
+  - rtitle: "Norman Ch. 1"
+    rlink: false
 - week: "2"
   date: "2"
   title: "Dark Patterns"
   readings:
   - rtitle: "Types of Dark Patterns"
     rlink: "https://www.darkpatterns.org/types-of-dark-pattern"  
+  - rtitle: "Eyal Ch. 1"
+    rlink: false
 - week: "3"
   date: "0"
   title: ""   
@@ -279,7 +283,9 @@ schedule:
   title: ""
   readings:
   - rtitle: "ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says"
-    rlink: "https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says"    
+    rlink: "https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says" 
+  - rtitle: "Eyal Ch. 2"
+    rlink: false    
 - week: "4"
   date: "0"
   title: "Designing the User Experience (UX)"  
@@ -302,7 +308,9 @@ schedule:
   title: ""
   readings:
   - rtitle: "The US military is trying to read minds"
-    rlink: "https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/"    
+    rlink: "https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/" 
+  - rtitle: "Eyal Ch. 3"
+    rlink: false    
 - week: "5"
   date: "0"
   title: "Augmented Reality"     
@@ -319,13 +327,15 @@ schedule:
   title: ""  
   readings:
   - rtitle: "How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist"
-    rlink: "https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3"   
+    rlink: "https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3"      
 - week: "5"
   date: "2"
   title: "Accessibility"
   readings:
   - rtitle: "Accessible Design for Users With Disabilities"
     rlink: "https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/"     
+  - rtitle: "Eyal Ch. 4"
+    rlink: false     
 - week: "6"
   date: "0"
   title: ""
@@ -343,7 +353,9 @@ schedule:
   title: ""
   readings:
   - rtitle: "A Code of Ethics for the Human-Robot Interaction Profession"
-    rlink: "https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf"   
+    rlink: "https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf"
+  - rtitle: "Norman Ch. 2"
+    rlink: false     
 - week: "8"
   date: "0"
   title: "" 
@@ -361,7 +373,9 @@ schedule:
   title: ""
   readings:
   - rtitle: "Evil by Design"
-    rlink: "https://evilbydesign.info/"  
+    rlink: "https://evilbydesign.info/"
+  - rtitle: "Norman Ch. 3"
+    rlink: false         
 - week: "9"
   date: "0"
   title: ""
@@ -380,6 +394,8 @@ schedule:
   readings:
   - rtitle: "Boeing 737 Max Safety System Was Vetoed, Engineer Says"
     rlink: "https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html" 
+  - rtitle: "Norman Ch. 4"
+    rlink: false         
 - week: "10"
   date: "0"
   title: ""  
@@ -397,7 +413,9 @@ schedule:
   title: ""
   readings:
   - rtitle: "The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs"
-    rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world" 
+    rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"
+  - rtitle: "Norman Ch. 5"
+    rlink: false         
   deliverables:
   - dtitle: "Research Report: Research Report Handed Out"
     dlink: "Projects/Report"    
@@ -426,6 +444,8 @@ schedule:
   readings: 
   - rtitle: "Reference Man - Everything is designed for this man, even drugs"
     rlink: "https://www.youtube.com/watch?v=CVdn-2KE2bs"
+  - rtitle: "Norman Ch. 6"
+    rlink: false         
 - week: "12"
   date: "0"
   title: ""  
