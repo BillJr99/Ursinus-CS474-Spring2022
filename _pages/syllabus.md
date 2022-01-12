@@ -249,7 +249,7 @@ schedule:
     rlink: "https://www.interaction-design.org/literature/topics/signifiers"    
 - week: "2"
   date: "1"
-  title: "Psychopathology" 
+  title: "Psychopathology of HCI" 
   readings:
   - rtitle: "Fresh Cambridge Analytica leak 'shows global manipulation is out of control'"
     rlink: "https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation"    
@@ -280,7 +280,7 @@ schedule:
     rlink: "https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/"    
 - week: "3"
   date: "2"
-  title: ""
+  title: "Psychological Triggers"
   readings:
   - rtitle: "ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says"
     rlink: "https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says" 
@@ -305,7 +305,7 @@ schedule:
     rlink: "https://www.wired.com/story/phone-addiction-formula/"  
 - week: "4"
   date: "2"
-  title: ""
+  title: "Motivating Action"
   readings:
   - rtitle: "The US military is trying to read minds"
     rlink: "https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/" 
@@ -338,7 +338,7 @@ schedule:
     rlink: false     
 - week: "6"
   date: "0"
-  title: ""
+  title: "Variable Reward"
   readings:
   - rtitle: "The Bias Blind Spot and Unconscious Bias in Design"
     rlink: "https://www.interaction-design.org/literature/article/the-bias-blind-spot-and-unconscious-bias-in-design"           
@@ -350,7 +350,7 @@ schedule:
     rlink: "https://arxiv.org/abs/2001.05046v1"   
 - week: "6"
   date: "2"
-  title: ""
+  title: "Leveraging Habits for Intuition"
   readings:
   - rtitle: "A Code of Ethics for the Human-Robot Interaction Profession"
     rlink: "https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf"
@@ -370,7 +370,7 @@ schedule:
     rlink: "https://www.interaction-design.org/literature/topics/design-principles"  
 - week: "8"
   date: "2"
-  title: ""
+  title: "Collective Memory"
   readings:
   - rtitle: "Evil by Design"
     rlink: "https://evilbydesign.info/"
@@ -390,7 +390,7 @@ schedule:
     rlink: "https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/"    
 - week: "9"
   date: "2"
-  title: ""
+  title: "Application of Affordances and Signifiers in Constrainted Environments"
   readings:
   - rtitle: "Boeing 737 Max Safety System Was Vetoed, Engineer Says"
     rlink: "https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html" 
@@ -410,7 +410,7 @@ schedule:
     rlink: "https://www.independent.co.uk/life-style/gadgets-and-tech/features/robot-carer-elderly-people-loneliness-ageing-population-care-homes-a8659801.html"   
 - week: "10"
   date: "2"
-  title: ""
+  title: "Informing Design by Observing Human Error"
   readings:
   - rtitle: "The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs"
     rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"
@@ -440,7 +440,7 @@ schedule:
     rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581"          
 - week: "11"
   date: "2"
-  title: ""
+  title: "Design Thinking"
   readings: 
   - rtitle: "Reference Man - Everything is designed for this man, even drugs"
     rlink: "https://www.youtube.com/watch?v=CVdn-2KE2bs"
