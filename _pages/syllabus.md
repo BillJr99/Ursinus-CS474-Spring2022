@@ -142,16 +142,14 @@ goals:
 - goal: "To utilize multiple physiological modalities to facilitate accessible human interfaces and interactions"
 
 grade_breakdown:
-- category: "Programming Assignments"
-  weight: "35%"
-- category: "Written Assignments"
-  weight: "20%"
+- category: "Assignments"
+  weight: "50%"
 - category: "Reading Reflective Journals"
-  weight: "10%"
+  weight: "20%"
 - category: "Final Project"
-  weight: "25%" 
+  weight: "15%" 
 - category: "Research Report"
-  weight: "10%"  
+  weight: "15%"  
 
 letter_grades:
 - letter: "A+"
@@ -186,7 +184,7 @@ schedule:
   date: "1"
   title: "Course Overview"
   deliverables:
-  - dtitle: "Written Assignment: Warmup Handed Out"    
+  - dtitle: "Assignment: Warmup Handed Out"    
     dlink: "Assignments/Written/Warmup"
     points: 15
     submission_types: "onpaper"  
@@ -197,7 +195,7 @@ schedule:
   - rtitle: "Bush, V. - As We May Think"
     rlink: "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
   deliverables:
-  - dtitle: "Written Assignment: The Mother of All Demos Handed Out"
+  - dtitle: "Assignment: The Mother of All Demos Handed Out"
     dlink: "Assignments/Written/MOAD"  
     points: 100  
     submission_types: "written"       
@@ -215,7 +213,7 @@ schedule:
   - rtitle: "50 Years Later, We Still Don't Grasp the Mother of All Demos"
     rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"  
   deliverables:
-  - dtitle: "Written Assignment: Warmup Due"    
+  - dtitle: "Assignment: Warmup Due"    
     dlink: "Assignments/Written/Warmup"
     points: 15
     submission_types: "onpaper"     
@@ -228,7 +226,7 @@ schedule:
   - rtitle: "Norman Ch. 1"
     rlink: false    
   deliverables:
-  - dtitle: "Written Assignment: The Mother of All Demos Due"
+  - dtitle: "Assignment: The Mother of All Demos Due"
     dlink: "Assignments/Written/MOAD"  
     points: 100  
     submission_types: "written" 
@@ -236,7 +234,7 @@ schedule:
   date: "0"
   title: "The Way We Interact - Affordances and Signifiers" 
   deliverables:
-  - dtitle: "Programming Assignment: Voice Prompts Handed Out"
+  - dtitle: "Assignment: Voice Prompts Handed Out"
     dlink: "Assignments/Programming/VoicePrompt"
     points: 100  
     rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"  
@@ -271,7 +269,7 @@ schedule:
   date: "1"
   title: ""  
   deliverables:
-  - dtitle: "Programming Assignment: Voice Prompts Due"
+  - dtitle: "Assignment: Voice Prompts Due"
     dlink: "Assignments/Programming/VoicePrompt"
     points: 100  
     rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"   
