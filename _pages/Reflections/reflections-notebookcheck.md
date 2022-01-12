@@ -10,20 +10,25 @@ info:
   goals:
     - To identify the systems and devices that shaped the way that humans engage with modern technology
     - To motivate the application of human-computer interaction to our collective humanity thorugh the systems to augment the development of augmentation systems
-      
+  contract:
+    a: 
+    - "Each item required for a grade of B is included"
+    - "At least one-half of all discussion threads have at least one meaningful response"     
+    b:
+    - "Each item required for a grade of C is included"
+    - "At least one-third of all discussion threads have at least one meaningful response"
+    c:
+    - "Each item required for a grade of D is included"
+    - "Half of all papers have meaningful contributions on the discussion threads"
+    - "At least some responses to other discussion thread posts are present"
+    d:
+    - "At least some papers have meaningful reflections shared both in the notebook and via the discussion threads"
+    
 tags:
-  - interfaces
+  - reflections
   
 ---
 
-In 1968, [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) gave [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos) to the joint conference of the ACM/IEEE.  Engelbart's On-Line System (NLS) featured several groundbreaking computing ideas that we take for granted today due to their ubiquity.  
+On the discussion threads, write a brief reflection on each reading assigned in the course.  If you are the first to post a reflection, give the thread a title that matches the title of the reading article.  You should also continue the discussion by responding in a thoughtful and respectful way to posts that others have made.  Raise points of agreement and feel free to present differing perspectives: remember that it is the diversity of stakeholder inputs that enables a comprehensive human experience.
 
-In this assignment, you will watch the Mother of All Demos [video (also shown below)](https://dougengelbart.org/content/view/374/), and discuss its implications for human-machine interfaces as a class.  Begin by answering these questions, which will help you to prepare for a meaningful class discussion on the history of human-computer interaction:
-
-1. What novel hardware interfaces were introduced at the demo?
-2. What kinds of software systems were demonstrated?
-3. What devices or software do you see at the demo that do not persist in ubiquity in modern computing?  In other words, are there devices or software that have evolved into something different in modern use (and if so, what and how)?
-4. Engelbart called his design an "augmentation system."  What do you think he was hoping to augment?
-5. What is meant by the term "collective memory," and what significance does Douglas Engelbart's demo and career have with respect to our collective memory?
-
-<iframe src="https://dougengelbart.org/content/view/374/" width="100%" height="800"></iframe>
+You may include any private reflections in your notebook.
