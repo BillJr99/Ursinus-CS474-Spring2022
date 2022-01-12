@@ -92,7 +92,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042803
 DTSTAMP:20220119T000000Z
 DTSTART;VALUE=DATE:20220119
-SUMMARY:CS474 Human Computer Interaction: Written Assignment: Warmup Handed Out
+SUMMARY:CS474 Human Computer Interaction: Assignment: Warmup Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -103,14 +103,14 @@ DTSTAMP:20220119T000000Z
 DTSTART;VALUE=DATE:20220119
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Written Assignment: Warmup Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/Warmup
+DESCRIPTION:\nDeliverable: Assignment: Warmup Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/Warmup
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042805
 DTSTAMP:20220121T000000Z
 DTSTART;VALUE=DATE:20220121
-SUMMARY:CS474 Human Computer Interaction: Written Assignment: The Mother of All Demos Handed Out
+SUMMARY:CS474 Human Computer Interaction: Assignment: The Mother of All Demos Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -121,7 +121,7 @@ DTSTAMP:20220121T000000Z
 DTSTART;VALUE=DATE:20220121
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Bush, V. - As We May Think https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/\nDeliverable: Written Assignment: The Mother of All Demos Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/MOAD
+DESCRIPTION:\nReading: Bush, V. - As We May Think https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/\nDeliverable: Assignment: The Mother of All Demos Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/MOAD
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042808
 DTSTAMP:20220126T000000Z
 DTSTART;VALUE=DATE:20220126
-SUMMARY:CS474 Human Computer Interaction: Written Assignment: Warmup Due
+SUMMARY:CS474 Human Computer Interaction: Assignment: Warmup Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -148,14 +148,14 @@ DTSTAMP:20220126T000000Z
 DTSTART;VALUE=DATE:20220126
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: 50 Years Later, We Still Don't Grasp the Mother of All Demos https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/\nDeliverable: Written Assignment: Warmup Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/Warmup
+DESCRIPTION:\nReading: 50 Years Later, We Still Don't Grasp the Mother of All Demos https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/\nDeliverable: Assignment: Warmup Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/Warmup
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04280a
 DTSTAMP:20220128T000000Z
 DTSTART;VALUE=DATE:20220128
-SUMMARY:CS474 Human Computer Interaction: Written Assignment: The Mother of All Demos Due
+SUMMARY:CS474 Human Computer Interaction: Assignment: The Mother of All Demos Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -166,14 +166,14 @@ DTSTAMP:20220128T000000Z
 DTSTART;VALUE=DATE:20220128
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: It's not you.  Phones are designed to be addicting. https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple\nReading: Norman Ch. 1\nDeliverable: Written Assignment: The Mother of All Demos Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/MOAD
+DESCRIPTION:\nReading: It's not you.  Phones are designed to be addicting. https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple\nReading: Norman Ch. 1\nDeliverable: Assignment: The Mother of All Demos Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/MOAD
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04280c
 DTSTAMP:20220131T000000Z
 DTSTART;VALUE=DATE:20220131
-SUMMARY:CS474 Human Computer Interaction: Programming Assignment: Voice Prompts Handed Out
+SUMMARY:CS474 Human Computer Interaction: Assignment: Voice Prompts Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -184,7 +184,7 @@ DTSTAMP:20220131T000000Z
 DTSTART;VALUE=DATE:20220131
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: EU mulls five-year ban on facial recognition tech in public areas https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL\nReading: What are Affordances? https://www.interaction-design.org/literature/topics/affordances\nReading: What are Signifiers? https://www.interaction-design.org/literature/topics/signifiers\nDeliverable: Programming Assignment: Voice Prompts Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/VoicePrompt
+DESCRIPTION:\nReading: EU mulls five-year ban on facial recognition tech in public areas https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL\nReading: What are Affordances? https://www.interaction-design.org/literature/topics/affordances\nReading: What are Signifiers? https://www.interaction-design.org/literature/topics/signifiers\nDeliverable: Assignment: Voice Prompts Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/VoicePrompt
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042811
 DTSTAMP:20220209T000000Z
 DTSTART;VALUE=DATE:20220209
-SUMMARY:CS474 Human Computer Interaction: Programming Assignment: Voice Prompts Due
+SUMMARY:CS474 Human Computer Interaction: Assignment: Voice Prompts Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -229,7 +229,7 @@ DTSTAMP:20220209T000000Z
 DTSTART;VALUE=DATE:20220209
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Mind-Controlled VR Game Really Works https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/\nDeliverable: Programming Assignment: Voice Prompts Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/VoicePrompt
+DESCRIPTION:\nReading: Mind-Controlled VR Game Really Works https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/\nDeliverable: Assignment: Voice Prompts Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/VoicePrompt
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
