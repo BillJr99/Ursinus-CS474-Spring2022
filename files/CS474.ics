@@ -416,13 +416,22 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042827
 DTSTAMP:20220401T000000Z
 DTSTART;VALUE=DATE:20220401
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
+SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report Handed Out
 LOCATION:
-DESCRIPTION:\nReading: The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world
+DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042828
+DTSTAMP:20220401T000000Z
+DTSTART;VALUE=DATE:20220401
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
+LOCATION:
+DESCRIPTION:\nReading: The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world\nDeliverable: Research Report: Research Report Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e042829
 DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: Second Notebook Check Handed Out
@@ -431,7 +440,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042829
+UID:00000000-0000-0000-0000-044f9e04282a
 DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -440,21 +449,12 @@ DESCRIPTION:\nReading: Color blind?  Artificial intelligence could improve the t
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04282a
-DTSTAMP:20220406T000000Z
-DTSTART;VALUE=DATE:20220406
-SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report Handed Out
-LOCATION:
-DESCRIPTION:
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04282b
 DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581\nDeliverable: Research Report: Research Report Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+DESCRIPTION:\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -542,13 +542,22 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042835
 DTSTAMP:20220422T000000Z
 DTSTART;VALUE=DATE:20220422
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
+SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042836
+DTSTAMP:20220422T000000Z
+DTSTART;VALUE=DATE:20220422
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
+LOCATION:
+DESCRIPTION:\nDeliverable: Research Report: Research Report Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e042837
 DTSTAMP:20220425T000000Z
 DTSTART;VALUE=DATE:20220425
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -557,19 +566,10 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042837
+UID:00000000-0000-0000-0000-044f9e042838
 DTSTAMP:20220427T000000Z
 DTSTART;VALUE=DATE:20220427
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
-LOCATION:
-DESCRIPTION:
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042838
-DTSTAMP:20220429T000000Z
-DTSTART;VALUE=DATE:20220429
-SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -580,7 +580,7 @@ DTSTAMP:20220429T000000Z
 DTSTART;VALUE=DATE:20220429
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Research Report: Research Report Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
