@@ -287,7 +287,7 @@ schedule:
   - rtitle: "Intro to UX: the Norman door"
     rlink: "https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086"
   deliverables:
-  - dtitle: "Reading Reflective Journal: First Notebook Check Handed Out"    
+  - dtitle: "Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out"    
     points: 10
     submission_types: "onpaper"          
 - week: "4"
@@ -309,7 +309,7 @@ schedule:
   - rtitle: "Stanford Seminar - Augmented Reality and Accessibility"
     rlink: "https://www.youtube.com/watch?v=lBq-WjXmTDo"
   deliverables:
-  - dtitle: "Reading Reflective Journal: First Notebook Check Due"    
+  - dtitle: "Reading Reflective Journal: First Notebook and Discussion Board Check Due"    
     points: 10
     submission_types: "onpaper"    
 - week: "5"
@@ -408,7 +408,7 @@ schedule:
   - rtitle: "Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities"
     rlink: "https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165"  
   deliverables:
-  - dtitle: "Reading Reflective Journal: Second Notebook Check Handed Out"    
+  - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out"    
     points: 10
     submission_types: "onpaper"        
 - week: "11"
@@ -429,10 +429,7 @@ schedule:
   readings: 
   - rtitle: "About the Paper that Forced Timnit Gerbu out of Google"
     rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"  
-  deliverables:
-  - dtitle: "Reading Reflective Journal: Second Notebook Check Due"    
-    points: 10
-    submission_types: "onpaper"  
+  deliverables:  
   - dtitle: "Final Project: Project and Presentation Handed Out"
     dlink: "Projects/Final"    
     points: 100     
@@ -459,7 +456,11 @@ schedule:
     points: 10     
 - week: "13"
   date: "1"
-  title: ""     
+  title: ""   
+  deliverables:
+  - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Due"    
+    points: 10
+    submission_types: "onpaper"  
 - week: "13"
   date: "2"
   title: ""
