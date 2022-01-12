@@ -225,6 +225,8 @@ schedule:
   readings:
   - rtitle: "It's not you.  Phones are designed to be addicting."
     rlink: "https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple"   
+  - rtitle: "Norman Ch. 1"
+    rlink: false    
   deliverables:
   - dtitle: "Written Assignment: The Mother of All Demos Due"
     dlink: "Assignments/Written/MOAD"  
@@ -251,8 +253,6 @@ schedule:
   readings:
   - rtitle: "Fresh Cambridge Analytica leak 'shows global manipulation is out of control'"
     rlink: "https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation"    
-  - rtitle: "Norman Ch. 1"
-    rlink: false
 - week: "2"
   date: "2"
   title: "Dark Patterns"
