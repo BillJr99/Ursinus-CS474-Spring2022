@@ -407,6 +407,10 @@ schedule:
 - week: "10"
   date: "0"
   title: ""  
+  deliverables:  
+  - dtitle: "Final Project: Project and Presentation Handed Out"
+    dlink: "Projects/Final"    
+    points: 100   
   readings:
   - rtitle: "Norman and Nielson - Gestural Interfaces: A Step Backward In Usability"
     rlink: "http://manoa.hawaii.edu/hci/readings/interactions2010_norman_nielsen.pdf"  
@@ -456,17 +460,17 @@ schedule:
     rlink: false         
 - week: "12"
   date: "0"
-  title: ""  
+  title: "Final Project Stakeholder Feedback Session"  
+  deliverables:
+  - dtitle: "Final Project: Proposal Due"
+    dlink: "Projects/Final"    
+    points: 10   
   readings: 
   - rtitle: "About the Paper that Forced Timnit Gerbu out of Google"
-    rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"  
-  deliverables:  
-  - dtitle: "Final Project: Project and Presentation Handed Out"
-    dlink: "Projects/Final"    
-    points: 100     
+    rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"      
 - week: "12"
   date: "1"
-  title: ""  
+  title: "Final Project Stakeholder Feedback Session"  
   readings: 
   - rtitle: "Microsoft AI Principles"
     rlink: "https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6"  
@@ -483,14 +487,10 @@ schedule:
   title: ""  
   readings: 
   - rtitle: "Ackerman, E. - My Fight With a Sidewalk Robot"
-    rlink: "https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities"   
-  deliverables:
-  - dtitle: "Final Project: Proposal Due"
-    dlink: "Projects/Final"    
-    points: 10     
+    rlink: "https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities"       
 - week: "13"
   date: "1"
-  title: ""  
+  title: "Final Project Collaboration and User Experience Study"  
   readings: 
   - rtitle: "Gonzales-Cameron, A. - Hello, My Name is Error"
     rlink: "https://alistapart.com/article/hello-my-name-is-error/"   
@@ -501,7 +501,7 @@ schedule:
     submission_types: "onpaper"  
 - week: "13"
   date: "2"
-  title: ""
+  title: "Final Project Collaboration and User Experience Study"
   deliverables:
   - dtitle: "Research Report: Research Report Due"
     dlink: "Projects/Report"    
