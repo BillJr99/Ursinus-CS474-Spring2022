@@ -213,7 +213,8 @@ schedule:
     rlink: "https://www.youtube.com/watch?v=4Bqs9JkMcCA"  
 - week: "1"
   date: "1"
-  title: ""     
+  title: "An Example Modality - Eye Tracking" 
+  link: "Activities/EyeTracking"  
   readings:  
   - rtitle: "50 Years Later, We Still Don't Grasp the Mother of All Demos"
     rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/" 
