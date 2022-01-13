@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/AugmentedReality
-title: "CS474: Human Computer Interaction - Modalities - Voice Prompts"
-excerpt: "CS474: Human Computer Interaction - Modalities - Voice Prompts"
+title: "CS474: Human Computer Interaction - Augmented Reality"
+excerpt: "CS474: Human Computer Interaction - Augmented Reality"
 
 info: 
   goals: 
