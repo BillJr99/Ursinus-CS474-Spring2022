@@ -248,7 +248,7 @@ schedule:
     rlink: "https://www.interaction-design.org/literature/topics/signifiers"    
 - week: "2"
   date: "1"
-  title: "Psychopathology of HCI" 
+  title: "Dark Patterns" 
   readings:
   - rtitle: "Fresh Cambridge Analytica leak 'shows global manipulation is out of control'"
     rlink: "https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation"    
@@ -256,7 +256,7 @@ schedule:
     rlink: false    
 - week: "2"
   date: "2"
-  title: "Dark Patterns"
+  title: "Psychopathology of Dark Patterns"
   readings:
   - rtitle: "Types of Dark Patterns"
     rlink: "https://www.darkpatterns.org/types-of-dark-pattern"  
