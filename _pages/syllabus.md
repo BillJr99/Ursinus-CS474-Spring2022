@@ -326,7 +326,8 @@ schedule:
     rlink: false    
 - week: "5"
   date: "0"
-  title: "Augmented Reality"     
+  title: "Augmented Reality"  
+  link: "Activities/AugmentedReality"  
   readings:
   - rtitle: "Stanford Seminar - Augmented Reality and Accessibility"
     rlink: "https://www.youtube.com/watch?v=lBq-WjXmTDo"
@@ -345,10 +346,14 @@ schedule:
   date: "2"
   title: "Accessibility"
   deliverables:
-  - dtitle: "Assignment: Eye Tracking Handed Out"
+  - dtitle: "Assignment: Eye Tracking Due"
     dlink: "Assignments/Programming/EyeTracking"
     points: 100  
     rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"       
+  - dtitle: "Assignment: Augmented Reality Handed Out"
+    dlink: "Assignments/Programming/AugmentedReality"
+    points: 100  
+    rubricpath: "_pages/ProgrammingAssignments/asmt-ar.md"      
   readings:
   - rtitle: "Accessible Design for Users With Disabilities"
     rlink: "https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/"     
@@ -389,6 +394,11 @@ schedule:
 - week: "8"
   date: "2"
   title: "Collective Memory"
+  deliverables:
+  - dtitle: "Assignment: Augmented Reality Due"
+    dlink: "Assignments/Programming/AugmentedReality"
+    points: 100  
+    rubricpath: "_pages/ProgrammingAssignments/asmt-ar.md"        
   readings:
   - rtitle: "Evil by Design"
     rlink: "https://evilbydesign.info/"
