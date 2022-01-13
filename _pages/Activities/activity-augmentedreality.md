@@ -1,6 +1,6 @@
 ---
 layout: activity
-permalink: /Activities/VoicePrompt
+permalink: /Activities/AugmentedReality
 title: "CS474: Human Computer Interaction - Modalities - Voice Prompts"
 excerpt: "CS474: Human Computer Interaction - Modalities - Voice Prompts"
 
