@@ -207,12 +207,17 @@ schedule:
   readings:
   - rtitle: "Schalk, Z. - Humans in Control: Thoughts on the Past, Present, and Future of HCI"
     rlink: "https://blogs.commons.georgetown.edu/cctp-797-fall2013/archives/807" 
+  - rtitle: "How Eye Control Empowers People with Disabilities"
+    rlink: "https://www.youtube.com/watch?v=NXOzDf26FnU"  
+  - rtitle: "How to Use Eye Control on a PC Running Windows 10"
+    rlink: "https://www.youtube.com/watch?v=4Bqs9JkMcCA"  
 - week: "1"
   date: "1"
   title: ""     
   readings:  
   - rtitle: "50 Years Later, We Still Don't Grasp the Mother of All Demos"
-    rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"  
+    rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/" 
+     
   deliverables:
   - dtitle: "Assignment: Warmup Due"    
     dlink: "Assignments/Written/Warmup"
@@ -241,7 +246,7 @@ schedule:
     rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"  
   readings:
   - rtitle: "EU mulls five-year ban on facial recognition tech in public areas"
-    rlink: "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL"
+    rlink: "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL"  
   - rtitle: "What are Affordances?"
     rlink: "https://www.interaction-design.org/literature/topics/affordances"  
   - rtitle: "What are Signifiers?"
@@ -264,10 +269,12 @@ schedule:
     rlink: "https://medium.com/@maud.im.marechal/darkpatterns-c938502cee49"
 - week: "3"
   date: "0"
-  title: ""   
+  title: "Psychology of HCI - Human Factors"   
   readings:
   - rtitle: "A cartoon Mark Zuckerberg toured hurricane-struck Puerto Rico in virtual reality"
     rlink: "https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane"   
+  - rtitle: "Shepard Tones - The Sound Illusion that Makes Dunkirk so Intense"
+    rlink: "https://www.youtube.com/watch?v=LVWTQcZbLgY"
 - week: "3"
   date: "1"
   title: ""  
@@ -339,13 +346,13 @@ schedule:
     rlink: false     
 - week: "6"
   date: "0"
-  title: "Variable Reward"
+  title: "Bias in Design"
   readings:
   - rtitle: "The Bias Blind Spot and Unconscious Bias in Design"
     rlink: "https://www.interaction-design.org/literature/article/the-bias-blind-spot-and-unconscious-bias-in-design"           
 - week: "6"
   date: "1"
-  title: ""  
+  title: "Variable Reward"  
   readings:
   - rtitle: "Robot Rights? Let's Talk about Human Welfare Instead"
     rlink: "https://arxiv.org/abs/2001.05046v1"   
@@ -359,7 +366,7 @@ schedule:
     rlink: false     
 - week: "8"
   date: "0"
-  title: "" 
+  title: "Ethics" 
   readings:
   - rtitle: "What Ethics Should Guide the Use of Robots in Policing?"
     rlink: "https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing"  
@@ -379,7 +386,7 @@ schedule:
     rlink: false         
 - week: "9"
   date: "0"
-  title: ""
+  title: "Robot Rights"
   readings:
   - rtitle: "You Snooze, You Lose: Insurers Make The Old Adage Literally True"
     rlink: "https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true"   
