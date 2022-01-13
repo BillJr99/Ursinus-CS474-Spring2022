@@ -283,7 +283,11 @@ schedule:
   - dtitle: "Assignment: Voice Prompts Due"
     dlink: "Assignments/Programming/VoicePrompt"
     points: 100  
-    rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"   
+    rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"  
+  - dtitle: "Assignment: Eye Tracking Handed Out"
+    dlink: "Assignments/Programming/EyeTracking"
+    points: 100  
+    rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"     
   readings:
   - rtitle: "Mind-Controlled VR Game Really Works"
     rlink: "https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/"    
@@ -340,6 +344,11 @@ schedule:
 - week: "5"
   date: "2"
   title: "Accessibility"
+  deliverables:
+  - dtitle: "Assignment: Eye Tracking Handed Out"
+    dlink: "Assignments/Programming/EyeTracking"
+    points: 100  
+    rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"       
   readings:
   - rtitle: "Accessible Design for Users With Disabilities"
     rlink: "https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/"     

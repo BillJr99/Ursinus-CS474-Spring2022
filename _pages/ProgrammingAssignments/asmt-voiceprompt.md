@@ -64,7 +64,7 @@ Your solution should utilize only a voice modality.  In other words, no text sho
 * How will you indicate to the user that you are ready for some kind of response?  What clear, consise prompts would you give to the user at particular points in the program?
 * How will you handle speech recognition errors?  The library we are using allows for probabilistic translation, which you should use to try to automatically resolve ambiguities, but it would be good to re-prompt the user and verify information at each step (especially if the translation has a low confidence).
 * The speech recognition software might pick up its own prompts during recognition: how might you address this?
-* How should you confiugre the speech recognition library with appropriate delays to pick up your user's responses, given your expectation of the duration of their input?
+* How should you configure the speech recognition library with appropriate delays to pick up your user's responses, given your expectation of the duration of their input?
 
 I strongly recommend running your program with your classmates to obtain feedback.  Pay particular attention to the way in which they use the program, and look for "mistakes" that they make along the way.  Don't tell them anything, but consider instead that these "mistakes" may be ambiguities in your program that you can address.  Obtain feedback from them at the end, and document and consider it in any revisions you might make.
 
