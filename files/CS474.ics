@@ -398,13 +398,22 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042825
 DTSTAMP:20220328T000000Z
 DTSTART;VALUE=DATE:20220328
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
+SUMMARY:CS474 Human Computer Interaction: Final Project: Project and Presentation Handed Out
 LOCATION:
-DESCRIPTION:\nReading: Norman and Nielson - Gestural Interfaces: A Step Backward In Usability http://manoa.hawaii.edu/hci/readings/interactions2010_norman_nielsen.pdf
+DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042826
+DTSTAMP:20220328T000000Z
+DTSTART;VALUE=DATE:20220328
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
+LOCATION:
+DESCRIPTION:\nReading: Norman and Nielson - Gestural Interfaces: A Step Backward In Usability http://manoa.hawaii.edu/hci/readings/interactions2010_norman_nielsen.pdf\nDeliverable: Final Project: Project and Presentation Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e042827
 DTSTAMP:20220330T000000Z
 DTSTART;VALUE=DATE:20220330
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -413,7 +422,7 @@ DESCRIPTION:\nReading: How Robot Carers could be the Future for Lonely Elderly P
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042827
+UID:00000000-0000-0000-0000-044f9e042828
 DTSTAMP:20220401T000000Z
 DTSTART;VALUE=DATE:20220401
 SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report Handed Out
@@ -422,7 +431,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042828
+UID:00000000-0000-0000-0000-044f9e042829
 DTSTAMP:20220401T000000Z
 DTSTART;VALUE=DATE:20220401
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -431,7 +440,7 @@ DESCRIPTION:\nReading: The US Military Is Working on Tech That Could Turn Soldie
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042829
+UID:00000000-0000-0000-0000-044f9e04282a
 DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out
@@ -440,7 +449,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04282a
+UID:00000000-0000-0000-0000-044f9e04282b
 DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -449,7 +458,7 @@ DESCRIPTION:\nReading: Color blind?  Artificial intelligence could improve the t
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04282b
+UID:00000000-0000-0000-0000-044f9e04282c
 DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -458,7 +467,7 @@ DESCRIPTION:\nReading: Toward a Sociology of Artificial Intelligence: A Call for
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04282c
+UID:00000000-0000-0000-0000-044f9e04282d
 DTSTAMP:20220408T000000Z
 DTSTART;VALUE=DATE:20220408
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -467,25 +476,25 @@ DESCRIPTION:\nReading: Reference Man - Everything is designed for this man, even
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04282d
+UID:00000000-0000-0000-0000-044f9e04282e
 DTSTAMP:20220411T000000Z
 DTSTART;VALUE=DATE:20220411
-SUMMARY:CS474 Human Computer Interaction: Final Project: Project and Presentation Handed Out
+SUMMARY:CS474 Human Computer Interaction: Final Project: Proposal Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04282e
+UID:00000000-0000-0000-0000-044f9e04282f
 DTSTAMP:20220411T000000Z
 DTSTART;VALUE=DATE:20220411
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/\nDeliverable: Final Project: Project and Presentation Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
+DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/\nDeliverable: Final Project: Proposal Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04282f
+UID:00000000-0000-0000-0000-044f9e042830
 DTSTAMP:20220413T000000Z
 DTSTART;VALUE=DATE:20220413
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -494,7 +503,7 @@ DESCRIPTION:\nReading: Microsoft AI Principles https://www.microsoft.com/en-us/a
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042830
+UID:00000000-0000-0000-0000-044f9e042831
 DTSTAMP:20220415T000000Z
 DTSTART;VALUE=DATE:20220415
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -503,21 +512,12 @@ DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patien
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042831
-DTSTAMP:20220418T000000Z
-DTSTART;VALUE=DATE:20220418
-SUMMARY:CS474 Human Computer Interaction: Final Project: Proposal Due
-LOCATION:
-DESCRIPTION:
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042832
 DTSTAMP:20220418T000000Z
 DTSTART;VALUE=DATE:20220418
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Ackerman, E. - My Fight With a Sidewalk Robot https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities\nDeliverable: Final Project: Proposal Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
+DESCRIPTION:\nReading: Ackerman, E. - My Fight With a Sidewalk Robot https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
