@@ -44,7 +44,7 @@ info:
       proficient: The program is submitted according to the directions, including a readme writeup describing the solution and answering all questions posed in the instructions
   readings:
     - rtitle: "Modalities - Voice Prompt Activity"
-      rlink: "../Activities/VoicePrompt"
+      rlink: "../../Activities/VoicePrompt"
     - rtitle: "ReadSpeaker Debuts Voice User Interface Platform for Nintendo Switch"
       rlink: "https://voicebot.ai/2021/11/16/readspeaker-debuts-voice-user-interface-platform-for-nintendo-switch/"
       
