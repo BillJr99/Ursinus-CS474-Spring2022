@@ -7,9 +7,9 @@ excerpt: "CS474: Human Computer Interaction - Design Thinking"
 info: 
   goals: 
     - abc
-  additional_reading:
-    - link: "abc"
-      title: "abc"     
+  additional_reading:  
+    - link: false
+      title: "Norman Chapter 6"         
   models:
     - model: |
         abc

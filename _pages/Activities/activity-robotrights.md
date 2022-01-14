@@ -8,8 +8,8 @@ info:
   goals: 
     - abc
   additional_reading:
-    - link: "abc"
-      title: "abc"       
+    - link: "https://arxiv.org/abs/2001.05046v1"
+      title: "Robot Rights? Let's Talk about Human Welfare Instead"       
   models:
     - model: |
         abc

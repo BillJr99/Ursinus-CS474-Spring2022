@@ -12,6 +12,8 @@ info:
       title: "Norman and Nielson - Gestural Interfaces: A Step Backward In Usability"   
     - link: "https://en.wikipedia.org/wiki/A/B_testing#Email_marketing"
       title: "A/B Testing Example"
+    - link: "https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/"
+      title: "Complete Beginner's Guide to Design Research"
     - link: false
       title: "Norman Chapter 5"    
   models:

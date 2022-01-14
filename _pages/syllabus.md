@@ -519,10 +519,13 @@ schedule:
   - rtitle: "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change"
     rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581" 
   deliverables: 
-  - dtitle: "Assignment: Online Tutor Handed Out"
+  - dtitle: "Assignment: Online Tutor Due"
     dlink: "Assignments/Programming/Tutor"
     points: 100
     rubricpath: "_pages/ProgrammingAssignments/asmt-tutor.md"  
+  - dtitle: "Assignment: Ethical Conserations and Case Studies Handed Out"
+    dlink: "Assignments/Written/EthicalConsiderations"
+    points: 100    
 - week: "11"
   date: "2"
   title: "Design Thinking"
@@ -551,6 +554,10 @@ schedule:
     rlink: "https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/"  
   - rtitle: "Dissecting racial bias in an algorithm used to manage the health of populations"
     rlink: "https://www.science.org/doi/10.1126/science.aax2342"
+  deliverables:
+  - dtitle: "Assignment: Ethical Conserations and Case Studies Handed Out"
+    dlink: "Assignments/Written/EthicalConsiderations"
+    points: 100      
 - week: "13"
   date: "0"
   title: "Final Project Workshop"  
@@ -578,7 +585,7 @@ schedule:
     submission_types: "written"   
 - week: "14"
   date: "0"
-  title: "Research Report Final Presentation and Discussion"     
+  title: "Ethical Case Studies Presentations"     
 - week: "14"
   date: "1"
   title: "Research Report Final Presentation and Discussion"     
