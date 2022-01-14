@@ -6,7 +6,9 @@ excerpt: "CS474: Human Computer Interaction - Dark Patterns"
 
 info: 
   goals: 
-    - abc
+    - To identify examples of dark patterns in everyday life
+    - To classify dark patterns into various common categories
+    - To avoid infusing dark patterns into designs and implementations
   additional_reading:
     - link: "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL"
       title: "EU mulls five-year ban on facial recognition tech in public areas"      
