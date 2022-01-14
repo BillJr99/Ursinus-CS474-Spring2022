@@ -166,7 +166,7 @@ DTSTAMP:20220128T000000Z
 DTSTART;VALUE=DATE:20220128
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: It's not you.  Phones are designed to be addicting. https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple\nReading: Norman Ch. 1\nDeliverable: Assignment: The Mother of All Demos Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/MOAD
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/CourseTools\nReading: It's not you.  Phones are designed to be addicting. https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple\nReading: Norman Ch. 1\nDeliverable: Assignment: The Mother of All Demos Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/MOAD
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -184,7 +184,7 @@ DTSTAMP:20220131T000000Z
 DTSTART;VALUE=DATE:20220131
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: EU mulls five-year ban on facial recognition tech in public areas https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL\nReading: What are Affordances? https://www.interaction-design.org/literature/topics/affordances\nReading: What are Signifiers? https://www.interaction-design.org/literature/topics/signifiers\nDeliverable: Assignment: Voice Prompts Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/VoicePrompt
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Interactions\nReading: EU mulls five-year ban on facial recognition tech in public areas https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL\nReading: What are Affordances? https://www.interaction-design.org/literature/topics/affordances\nReading: What are Signifiers? https://www.interaction-design.org/literature/topics/signifiers\nDeliverable: Assignment: Voice Prompts Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/VoicePrompt
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -193,7 +193,7 @@ DTSTAMP:20220202T000000Z
 DTSTART;VALUE=DATE:20220202
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Fresh Cambridge Analytica leak 'shows global manipulation is out of control' https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation\nReading: Eyal Ch. 1
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DarkPatterns\nReading: Fresh Cambridge Analytica leak 'shows global manipulation is out of control' https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation\nReading: Eyal Ch. 1
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -211,7 +211,7 @@ DTSTAMP:20220207T000000Z
 DTSTART;VALUE=DATE:20220207
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: A cartoon Mark Zuckerberg toured hurricane-struck Puerto Rico in virtual reality https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane\nReading: Shepard Tones - The Sound Illusion that Makes Dunkirk so Intense https://www.youtube.com/watch?v=LVWTQcZbLgY
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/HumanFactors\nReading: A cartoon Mark Zuckerberg toured hurricane-struck Puerto Rico in virtual reality https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane\nReading: Shepard Tones - The Sound Illusion that Makes Dunkirk so Intense https://www.youtube.com/watch?v=LVWTQcZbLgY
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -247,7 +247,7 @@ DTSTAMP:20220211T000000Z
 DTSTART;VALUE=DATE:20220211
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says\nReading: Eyal Ch. 2
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Triggers\nReading: ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says\nReading: Eyal Ch. 2
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -265,7 +265,7 @@ DTSTAMP:20220214T000000Z
 DTSTART;VALUE=DATE:20220214
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Intro to UX: the Norman door https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086\nDeliverable: Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/UX\nReading: Intro to UX: the Norman door https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086\nDeliverable: Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -283,7 +283,7 @@ DTSTAMP:20220218T000000Z
 DTSTART;VALUE=DATE:20220218
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: The US military is trying to read minds https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/\nReading: Eyal Ch. 3
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Motivating\nReading: The US military is trying to read minds https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/\nReading: Eyal Ch. 3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -337,7 +337,7 @@ DTSTAMP:20220225T000000Z
 DTSTART;VALUE=DATE:20220225
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Accessible Design for Users With Disabilities https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/\nReading: Eyal Ch. 4\nDeliverable: Assignment: Eye Tracking Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/EyeTracking\nDeliverable: Assignment: Augmented Reality Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/AugmentedReality
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Accessibility\nReading: Accessible Design for Users With Disabilities https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/\nReading: Eyal Ch. 4\nDeliverable: Assignment: Eye Tracking Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/EyeTracking\nDeliverable: Assignment: Augmented Reality Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/AugmentedReality
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -346,7 +346,7 @@ DTSTAMP:20220228T000000Z
 DTSTART;VALUE=DATE:20220228
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: The Bias Blind Spot and Unconscious Bias in Design https://www.interaction-design.org/literature/article/the-bias-blind-spot-and-unconscious-bias-in-design
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Bias\nReading: The Bias Blind Spot and Unconscious Bias in Design https://www.interaction-design.org/literature/article/the-bias-blind-spot-and-unconscious-bias-in-design
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -364,7 +364,7 @@ DTSTAMP:20220304T000000Z
 DTSTART;VALUE=DATE:20220304
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: A Code of Ethics for the Human-Robot Interaction Profession https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf\nReading: Norman Ch. 2
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/VariableReward\nReading: A Code of Ethics for the Human-Robot Interaction Profession https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf\nReading: Norman Ch. 2
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -382,7 +382,7 @@ DTSTAMP:20220314T000000Z
 DTSTART;VALUE=DATE:20220314
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: What Ethics Should Guide the Use of Robots in Policing? https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing\nDeliverable: Final Project: Project and Presentation Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Intuition\nReading: What Ethics Should Guide the Use of Robots in Policing? https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing\nDeliverable: Final Project: Project and Presentation Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -400,7 +400,7 @@ DTSTAMP:20220316T000000Z
 DTSTART;VALUE=DATE:20220316
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Types of Design Principles https://www.interaction-design.org/literature/topics/design-principles\nDeliverable: Research Report: Research Report Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DesignPrinciples\nReading: Types of Design Principles https://www.interaction-design.org/literature/topics/design-principles\nDeliverable: Research Report: Research Report Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -427,7 +427,7 @@ DTSTAMP:20220321T000000Z
 DTSTART;VALUE=DATE:20220321
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: You Snooze, You Lose: Insurers Make The Old Adage Literally True https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/CollectiveMemory\nReading: You Snooze, You Lose: Insurers Make The Old Adage Literally True https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -445,7 +445,7 @@ DTSTAMP:20220323T000000Z
 DTSTART;VALUE=DATE:20220323
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: How US Tech Giants are Helping to Build China's Surveillance State https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/\nDeliverable: Final Project: Proposal Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/ConstrainedApplications\nReading: How US Tech Giants are Helping to Build China's Surveillance State https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/\nDeliverable: Final Project: Proposal Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -454,7 +454,7 @@ DTSTAMP:20220325T000000Z
 DTSTART;VALUE=DATE:20220325
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Boeing 737 Max Safety System Was Vetoed, Engineer Says https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html\nReading: Norman Ch. 4
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/ExperimentalObservation\nReading: Boeing 737 Max Safety System Was Vetoed, Engineer Says https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html\nReading: Norman Ch. 4
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -472,7 +472,7 @@ DTSTAMP:20220330T000000Z
 DTSTART;VALUE=DATE:20220330
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: How Robot Carers could be the Future for Lonely Elderly People https://www.independent.co.uk/life-style/gadgets-and-tech/features/robot-carer-elderly-people-loneliness-ageing-population-care-homes-a8659801.html
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/EthicalConsiderations\nReading: How Robot Carers could be the Future for Lonely Elderly People https://www.independent.co.uk/life-style/gadgets-and-tech/features/robot-carer-elderly-people-loneliness-ageing-population-care-homes-a8659801.html
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -517,7 +517,7 @@ DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Robot Rights? Let's Talk about Human Welfare Instead https://arxiv.org/abs/2001.05046v1\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck\nDeliverable: Research Report: Research Report First Draft Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/RobotRights\nReading: Robot Rights? Let's Talk about Human Welfare Instead https://arxiv.org/abs/2001.05046v1\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck\nDeliverable: Research Report: Research Report First Draft Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -526,7 +526,7 @@ DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DesignThinking\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
