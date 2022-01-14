@@ -143,13 +143,13 @@ goals:
 
 grade_breakdown:
 - category: "Assignments"
-  weight: "50%"
+  weight: "40%"
 - category: "Reading Reflective Journals"
   weight: "20%"
 - category: "Final Project"
-  weight: "15%" 
+  weight: "20%" 
 - category: "Research Report"
-  weight: "15%"  
+  weight: "20%"  
 
 letter_grades:
 - letter: "A+"
@@ -229,7 +229,7 @@ schedule:
   title: "Course Tools - LaTeX and VirtualBox"   
   link: "Activities/CourseTools"
   readings:
-  - rtitle: "It's not you.  Phones are designed to be addicting."
+  - rtitle: "Haubursin, C. - It's not you.  Phones are designed to be addicting."
     rlink: "https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple"   
   - rtitle: "Norman Ch. 1"
     rlink: false    
