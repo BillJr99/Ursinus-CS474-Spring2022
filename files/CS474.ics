@@ -364,7 +364,7 @@ DTSTAMP:20220304T000000Z
 DTSTART;VALUE=DATE:20220304
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/VariableReward\nReading: A Code of Ethics for the Human-Robot Interaction Profession https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf\nReading: Norman Ch. 2
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/VariableReward\nReading: A Code of Ethics for the Human-Robot Interaction Profession https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf\nReading: Meppe, J. - Why are instagram, facebook, and twitter so damn addicting? https://www.janmeppe.com/blog/addicting-tech/\nReading: Norman Ch. 2
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -400,7 +400,7 @@ DTSTAMP:20220316T000000Z
 DTSTART;VALUE=DATE:20220316
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DesignPrinciples\nReading: Types of Design Principles https://www.interaction-design.org/literature/topics/design-principles\nDeliverable: Research Report: Research Report Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DesignPrinciples\nReading: Types of Design Principles https://www.interaction-design.org/literature/topics/design-principles\nReading: 10 Usability Heuristics for User Interface Design https://www.nngroup.com/articles/ten-usability-heuristics/\nDeliverable: Research Report: Research Report Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -436,7 +436,7 @@ DTSTAMP:20220321T000000Z
 DTSTART;VALUE=DATE:20220321
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/CollectiveMemory\nReading: You Snooze, You Lose: Insurers Make The Old Adage Literally True https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/CollectiveMemory\nReading: You Snooze, You Lose: Insurers Make The Old Adage Literally True https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true\nReading: Mair, A. - The Role of Memory in HCI https://medium.com/@avimair/the-role-of-memory-in-hci-f92204a6980d
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -454,7 +454,7 @@ DTSTAMP:20220323T000000Z
 DTSTART;VALUE=DATE:20220323
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/ConstrainedApplications\nReading: How US Tech Giants are Helping to Build China's Surveillance State https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/\nDeliverable: Final Project: Proposal Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/ConstrainedApplications\nReading: How US Tech Giants are Helping to Build China's Surveillance State https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/\nReading: Norman Ch. 4\nDeliverable: Final Project: Proposal Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -463,7 +463,7 @@ DTSTAMP:20220325T000000Z
 DTSTART;VALUE=DATE:20220325
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/ExperimentalObservation\nReading: Boeing 737 Max Safety System Was Vetoed, Engineer Says https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html\nReading: Norman Ch. 4
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/ExperimentalObservation\nReading: Boeing 737 Max Safety System Was Vetoed, Engineer Says https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html\nReading: Norman Ch. 5
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -499,7 +499,7 @@ DTSTAMP:20220401T000000Z
 DTSTART;VALUE=DATE:20220401
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world\nReading: Norman Ch. 5\nDeliverable: Final Project: Design Plan Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
+DESCRIPTION:\nReading: The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world\nDeliverable: Final Project: Design Plan Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042834
 DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
-SUMMARY:CS474 Human Computer Interaction: Assignment: Online Tutor Handed Out
+SUMMARY:CS474 Human Computer Interaction: Assignment: Online Tutor Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -542,13 +542,22 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042835
 DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
+SUMMARY:CS474 Human Computer Interaction: Assignment: Ethical Conserations and Case Studies Handed Out
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DesignThinking\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581\nDeliverable: Assignment: Online Tutor Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/Tutor
+DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042836
+DTSTAMP:20220406T000000Z
+DTSTART;VALUE=DATE:20220406
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
+LOCATION:
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DesignThinking\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581\nDeliverable: Assignment: Online Tutor Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/Tutor\nDeliverable: Assignment: Ethical Conserations and Case Studies Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/EthicalConsiderations
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e042837
 DTSTAMP:20220408T000000Z
 DTSTART;VALUE=DATE:20220408
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -557,7 +566,7 @@ DESCRIPTION:\nReading: Reference Man - Everything is designed for this man, even
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042837
+UID:00000000-0000-0000-0000-044f9e042838
 DTSTAMP:20220411T000000Z
 DTSTART;VALUE=DATE:20220411
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -566,7 +575,7 @@ DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google ht
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042838
+UID:00000000-0000-0000-0000-044f9e042839
 DTSTAMP:20220413T000000Z
 DTSTART;VALUE=DATE:20220413
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -575,16 +584,25 @@ DESCRIPTION:\nReading: Microsoft AI Principles https://www.microsoft.com/en-us/a
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042839
+UID:00000000-0000-0000-0000-044f9e04283a
+DTSTAMP:20220415T000000Z
+DTSTART;VALUE=DATE:20220415
+SUMMARY:CS474 Human Computer Interaction: Assignment: Ethical Conserations and Case Studies Handed Out
+LOCATION:
+DESCRIPTION:
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e04283b
 DTSTAMP:20220415T000000Z
 DTSTART;VALUE=DATE:20220415
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patients https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/\nReading: Dissecting racial bias in an algorithm used to manage the health of populations https://www.science.org/doi/10.1126/science.aax2342
+DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patients https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/\nReading: Dissecting racial bias in an algorithm used to manage the health of populations https://www.science.org/doi/10.1126/science.aax2342\nDeliverable: Assignment: Ethical Conserations and Case Studies Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/EthicalConsiderations
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04283a
+UID:00000000-0000-0000-0000-044f9e04283c
 DTSTAMP:20220418T000000Z
 DTSTART;VALUE=DATE:20220418
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -593,7 +611,7 @@ DESCRIPTION:\nReading: Ackerman, E. - My Fight With a Sidewalk Robot https://www
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04283b
+UID:00000000-0000-0000-0000-044f9e04283d
 DTSTAMP:20220420T000000Z
 DTSTART;VALUE=DATE:20220420
 SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: Second Notebook and Discussion Board Check Due
@@ -602,7 +620,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04283c
+UID:00000000-0000-0000-0000-044f9e04283e
 DTSTAMP:20220420T000000Z
 DTSTART;VALUE=DATE:20220420
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -611,7 +629,7 @@ DESCRIPTION:\nReading: Gonzales-Cameron, A. - Hello, My Name is Error https://al
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04283d
+UID:00000000-0000-0000-0000-044f9e04283f
 DTSTAMP:20220422T000000Z
 DTSTART;VALUE=DATE:20220422
 SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report Due
@@ -620,7 +638,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04283e
+UID:00000000-0000-0000-0000-044f9e042840
 DTSTAMP:20220422T000000Z
 DTSTART;VALUE=DATE:20220422
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -629,7 +647,7 @@ DESCRIPTION:\nDeliverable: Research Report: Research Report Due https://www.bill
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04283f
+UID:00000000-0000-0000-0000-044f9e042841
 DTSTAMP:20220425T000000Z
 DTSTART;VALUE=DATE:20220425
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -638,7 +656,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042840
+UID:00000000-0000-0000-0000-044f9e042842
 DTSTAMP:20220427T000000Z
 DTSTART;VALUE=DATE:20220427
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -647,7 +665,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042841
+UID:00000000-0000-0000-0000-044f9e042843
 DTSTAMP:20220429T000000Z
 DTSTART;VALUE=DATE:20220429
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -656,7 +674,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042842
+UID:00000000-0000-0000-0000-044f9e042844
 DTSTAMP:20220502T000000Z
 DTSTART;VALUE=DATE:20220502
 SUMMARY:CS474 Human Computer Interaction: Final Project: Project and Presentation Due
@@ -665,7 +683,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042843
+UID:00000000-0000-0000-0000-044f9e042845
 DTSTAMP:20220502T000000Z
 DTSTART;VALUE=DATE:20220502
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -674,7 +692,7 @@ DESCRIPTION:\nDeliverable: Final Project: Project and Presentation Due https://w
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042844
+UID:00000000-0000-0000-0000-044f9e042846
 DTSTAMP:20220117T120000
 DTSTART;TZID=US-Eastern:20220117T120000
 DTEND;TZID=US-Eastern:20220117T140000
@@ -697,7 +715,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042845
+UID:00000000-0000-0000-0000-044f9e042847
 DTSTAMP:20220117T120000
 DTSTART;TZID=US-Eastern:20220117T120000
 DTEND;TZID=US-Eastern:20220117T140000
@@ -720,7 +738,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042846
+UID:00000000-0000-0000-0000-044f9e042848
 DTSTAMP:20220117T120000
 DTSTART;TZID=US-Eastern:20220117T120000
 DTEND;TZID=US-Eastern:20220117T140000
@@ -743,7 +761,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042847
+UID:00000000-0000-0000-0000-044f9e042849
 DTSTAMP:20220117T120000
 DTSTART;TZID=US-Eastern:20220117T120000
 DTEND;TZID=US-Eastern:20220117T140000
@@ -766,7 +784,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042848
+UID:00000000-0000-0000-0000-044f9e04284a
 DTSTAMP:20220201T000000Z
 DTSTART;VALUE=DATE:20220201
 SUMMARY:Add Deadline
@@ -775,7 +793,7 @@ DESCRIPTION:Add Deadline
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042849
+UID:00000000-0000-0000-0000-044f9e04284b
 DTSTAMP:20210304T000000Z
 DTSTART;VALUE=DATE:20210304
 SUMMARY:Mid Semester Grades Posted
@@ -784,7 +802,7 @@ DESCRIPTION:Mid Semester Grades Posted
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04284a
+UID:00000000-0000-0000-0000-044f9e04284c
 DTSTAMP:20220323T000000Z
 DTSTART;VALUE=DATE:20220323
 SUMMARY:Drop with a W Deadline
@@ -793,7 +811,7 @@ DESCRIPTION:Drop with a W Deadline
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04284b
+UID:00000000-0000-0000-0000-044f9e04284d
 DTSTAMP:20220504T000000Z
 DTSTART;VALUE=DATE:20220504
 SUMMARY:Designated Thursday Schedule
@@ -802,7 +820,7 @@ DESCRIPTION:Designated Thursday Schedule
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04284c
+UID:00000000-0000-0000-0000-044f9e04284e
 DTSTAMP:20220505T000000Z
 DTSTART;VALUE=DATE:20220505
 SUMMARY:Reading Day
@@ -811,7 +829,7 @@ DESCRIPTION:Reading Day
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04284d
+UID:00000000-0000-0000-0000-044f9e04284f
 DTSTAMP:20220506T000000Z
 DTSTART;VALUE=DATE:20220506
 SUMMARY:Finals Week Begins
@@ -820,7 +838,7 @@ DESCRIPTION:Finals Week Begins
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04284e
+UID:00000000-0000-0000-0000-044f9e042850
 DTSTAMP:20220512T000000Z
 DTSTART;VALUE=DATE:20220512
 SUMMARY:Finals Week Ends
@@ -829,7 +847,7 @@ DESCRIPTION:Finals Week Ends
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04284f
+UID:00000000-0000-0000-0000-044f9e042851
 DTSTAMP:20220513T000000Z
 DTSTART;VALUE=DATE:20220513
 SUMMARY:Baccalaureate
@@ -838,7 +856,7 @@ DESCRIPTION:Baccalaureate
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042850
+UID:00000000-0000-0000-0000-044f9e042852
 DTSTAMP:20220514T000000Z
 DTSTART;VALUE=DATE:20220514
 SUMMARY:Commencement

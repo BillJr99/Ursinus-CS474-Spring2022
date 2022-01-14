@@ -395,8 +395,8 @@ schedule:
   readings:
   - rtitle: "A Code of Ethics for the Human-Robot Interaction Profession"
     rlink: "https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf"
-  - link: "https://www.janmeppe.com/blog/addicting-tech/"
-    title: "Meppe, J. - Why are instagram, facebook, and twitter so damn addicting?"    
+  - rlink: "https://www.janmeppe.com/blog/addicting-tech/"
+    rtitle: "Meppe, J. - Why are instagram, facebook, and twitter so damn addicting?"    
   - rtitle: "Norman Ch. 2"
     rlink: false     
 - week: "8"
