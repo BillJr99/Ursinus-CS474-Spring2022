@@ -31,15 +31,20 @@ info:
     - link: "https://alistapart.com/article/hello-my-name-is-error/"
       title: "Gonzales-Cameron, A. - Hello, My Name is Error" 
     - link: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581"
-      title: "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change"       
-  models:
+      title: "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change" 
+  models:      
     - model: |
-        abc
-      title: abc
+        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Now might be a good time to remind everyone that the easiest way to discriminate is to make stringent rules, then to decide when and for whom to enforce them.<br>My submissions were always checked for disclosure of sensitive material, never for the quality of the literature review.</p>&mdash; Nicolas Le Roux (@le_roux_nicolas) <a href="https://twitter.com/le_roux_nicolas/status/1334601960972906496?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      title: "Ethical Considerations and Diversity and Inclusivity"
       questions:
-        - "abc"
-
+        - "What are the risks inherent in robotic policing or defense systems?"
+        - "How do we balance dignity and privacy in applications such as aging-in-place with supportive care systems?"
+        - "What is a &quot;Turing Deception&quot; with respect to &quot;Wizard-of-Oz&quot; robotics?"
+        - "Why are people reluctant to raise issues of implicit bias or lack of autonomy in already-deployed systems?  When is the correct time to collect this kind of feedback, and how can the participating subjects be protected?"
+        - "Two of these articles discuss a racial bias in health care applications and, in particular, a health care application that recommended less care to black patients.  How does this kind of bias wind up in software systems; why doesn't software reduce unconscious bias, given that it lacks consciousness?"
+        - "What constraints would you introduce to validate a name input box to mitigate possible SQL injection attacks?  Why is this dangerous for inclusivity, and what can be done about it?"
+        
 tags:
-  - abc
+  - ethics
   
 ---
