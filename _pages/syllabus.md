@@ -227,6 +227,7 @@ schedule:
 - week: "1"
   date: "2"
   title: "Course Tools - LaTeX and VirtualBox"   
+  link: "Activities/CourseTools"
   readings:
   - rtitle: "It's not you.  Phones are designed to be addicting."
     rlink: "https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple"   
@@ -240,6 +241,7 @@ schedule:
 - week: "2"
   date: "0"
   title: "The Way We Interact - Affordances and Signifiers" 
+  link: "Activities/Interactions"
   deliverables:
   - dtitle: "Assignment: Voice Prompts Handed Out"
     dlink: "Assignments/Programming/VoicePrompt"
@@ -254,7 +256,8 @@ schedule:
     rlink: "https://www.interaction-design.org/literature/topics/signifiers"    
 - week: "2"
   date: "1"
-  title: "Dark Patterns" 
+  title: "Psychopathology of Dark Patterns" 
+  link: "Activities/DarkPatterns"
   readings:
   - rtitle: "Fresh Cambridge Analytica leak 'shows global manipulation is out of control'"
     rlink: "https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation"    
@@ -270,7 +273,8 @@ schedule:
     rlink: "https://medium.com/@maud.im.marechal/darkpatterns-c938502cee49"
 - week: "3"
   date: "0"
-  title: "Psychology of HCI - Human Factors"   
+  title: "Psychology of HCI - Human Factors"
+  link: "Activities/HumanFactors"  
   readings:
   - rtitle: "A cartoon Mark Zuckerberg toured hurricane-struck Puerto Rico in virtual reality"
     rlink: "https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane"   
@@ -294,6 +298,7 @@ schedule:
 - week: "3"
   date: "2"
   title: "Psychological Triggers"
+  link: "Activities/Triggers"
   readings:
   - rtitle: "ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says"
     rlink: "https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says" 
@@ -301,7 +306,8 @@ schedule:
     rlink: false    
 - week: "4"
   date: "0"
-  title: "Designing the User Experience (UX)"  
+  title: "Designing the User Experience (UX)" 
+  link: "Activities/UX"  
   readings:
   - rtitle: "Intro to UX: the Norman door"
     rlink: "https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086"
@@ -319,6 +325,7 @@ schedule:
 - week: "4"
   date: "2"
   title: "Motivating Action"
+  link: "Activities/Motivating"
   readings:
   - rtitle: "The US military is trying to read minds"
     rlink: "https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/" 
@@ -345,6 +352,7 @@ schedule:
 - week: "5"
   date: "2"
   title: "Accessibility"
+  link: "Activities/Accessibility"
   deliverables:
   - dtitle: "Assignment: Eye Tracking Due"
     dlink: "Assignments/Programming/EyeTracking"
@@ -362,6 +370,7 @@ schedule:
 - week: "6"
   date: "0"
   title: "Bias in Design"
+  link: "Activities/Bias"
   readings:
   - rtitle: "The Bias Blind Spot and Unconscious Bias in Design"
     rlink: "https://www.interaction-design.org/literature/article/the-bias-blind-spot-and-unconscious-bias-in-design"           
@@ -374,6 +383,7 @@ schedule:
 - week: "6"
   date: "2"
   title: "Variable Reward"
+  link: "Activities/VariableReward"
   readings:
   - rtitle: "A Code of Ethics for the Human-Robot Interaction Profession"
     rlink: "https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf"
@@ -382,6 +392,7 @@ schedule:
 - week: "8"
   date: "0"
   title: "Leveraging Habits for Intuition" 
+  link: "Activities/Intuition"
   readings:
   - rtitle: "What Ethics Should Guide the Use of Robots in Policing?"
     rlink: "https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing"
@@ -391,7 +402,8 @@ schedule:
     points: 100       
 - week: "8"
   date: "1"
-  title: "Design Principles"     
+  title: "Design Principles"   
+  link: "Activities/DesignPrinciples"  
   readings:
   - rtitle: "Types of Design Principles"
     rlink: "https://www.interaction-design.org/literature/topics/design-principles" 
@@ -416,12 +428,14 @@ schedule:
 - week: "9"
   date: "0"
   title: "Collective Memory"
+  link: "Activities/CollectiveMemory"
   readings:
   - rtitle: "You Snooze, You Lose: Insurers Make The Old Adage Literally True"
     rlink: "https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true"   
 - week: "9"
   date: "1"
-  title: "Application of Affordances and Signifiers in Constrainted Environments" 
+  title: "Application of Affordances and Signifiers in Constrainted Environments"
+  link: "Activities/ConstrainedApplications"  
   readings:
   - rtitle: "How US Tech Giants are Helping to Build China's Surveillance State"
     rlink: "https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/"      
@@ -432,6 +446,7 @@ schedule:
 - week: "9"
   date: "2"
   title: "Informing Design by Observing Human Error"
+  link: "Activities/ExperimentalObservation"
   readings:
   - rtitle: "Boeing 737 Max Safety System Was Vetoed, Engineer Says"
     rlink: "https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html" 
@@ -446,6 +461,7 @@ schedule:
 - week: "10"
   date: "1"
   title: "Ethical Considerations"   
+  link: "Activities/EthicalConsiderations"
   readings:
   - rtitle: "How Robot Carers could be the Future for Lonely Elderly People"
     rlink: "https://www.independent.co.uk/life-style/gadgets-and-tech/features/robot-carer-elderly-people-loneliness-ageing-population-care-homes-a8659801.html"   
@@ -463,7 +479,8 @@ schedule:
     points: 10    
 - week: "11"
   date: "0"
-  title: "Robot Rights"   
+  title: "Robot Rights" 
+  link: "Activities/RobotRights"  
   readings:
   - rtitle: "Robot Rights? Let's Talk about Human Welfare Instead"
     rlink: "https://arxiv.org/abs/2001.05046v1"  
@@ -479,6 +496,7 @@ schedule:
 - week: "11"
   date: "1"
   title: "Design Thinking" 
+  link: "Activities/DesignThinking"
   readings:
   - rtitle: "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change"
     rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581"          
