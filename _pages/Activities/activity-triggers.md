@@ -7,6 +7,9 @@ excerpt: "CS474: Human Computer Interaction - Triggers"
 info: 
   goals: 
     - abc
+  additional_reading:
+    - link: "abc"
+      title: "abc"      
   models:
     - model: |
         abc
@@ -15,6 +18,6 @@ info:
         - "abc"
 
 tags:
-  - abc
+  - psychology
   
 ---

@@ -7,6 +7,9 @@ excerpt: "CS474: Human Computer Interaction - Variable Reward"
 info: 
   goals: 
     - abc
+  additional_reading:
+    - link: "abc"
+      title: "abc"     
   models:
     - model: |
         abc

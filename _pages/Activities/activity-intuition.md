@@ -7,6 +7,9 @@ excerpt: "CS474: Human Computer Interaction - Leveraging Habits for Intuition"
 info: 
   goals: 
     - abc
+  additional_reading:
+    - link: "abc"
+      title: "abc"     
   models:
     - model: |
         abc

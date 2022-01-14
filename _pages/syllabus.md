@@ -280,6 +280,8 @@ schedule:
     rlink: "https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane"   
   - rtitle: "Shepard Tones - The Sound Illusion that Makes Dunkirk so Intense"
     rlink: "https://www.youtube.com/watch?v=LVWTQcZbLgY"
+  - rlink: "https://xd.adobe.com/ideas/process/information-architecture/6-ways-to-reduce-cognitive-load-for-a-better-ui/"
+    rtitle: "Adobe - 6 Ways to Reduce Cognitive Load"    
 - week: "3"
   date: "1"
   title: "Psychology of HCI - Human Factors"  
