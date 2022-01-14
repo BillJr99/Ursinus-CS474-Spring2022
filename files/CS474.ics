@@ -355,7 +355,7 @@ DTSTAMP:20220302T000000Z
 DTSTART;VALUE=DATE:20220302
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Robot Rights? Let's Talk about Human Welfare Instead https://arxiv.org/abs/2001.05046v1
+DESCRIPTION:\nReading: Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -517,7 +517,7 @@ DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck\nDeliverable: Research Report: Research Report First Draft Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+DESCRIPTION:\nReading: Robot Rights? Let's Talk about Human Welfare Instead https://arxiv.org/abs/2001.05046v1\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck\nDeliverable: Research Report: Research Report First Draft Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
