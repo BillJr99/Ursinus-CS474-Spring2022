@@ -394,7 +394,8 @@ schedule:
   title: "Design Principles"     
   readings:
   - rtitle: "Types of Design Principles"
-    rlink: "https://www.interaction-design.org/literature/topics/design-principles"  
+    rlink: "https://www.interaction-design.org/literature/topics/design-principles" 
+  deliverables:    
   - dtitle: "Research Report: Research Report Handed Out"
     dlink: "Projects/Report"    
     points: 100  
