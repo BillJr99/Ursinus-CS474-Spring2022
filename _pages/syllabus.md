@@ -384,7 +384,11 @@ schedule:
   title: "Ethics" 
   readings:
   - rtitle: "What Ethics Should Guide the Use of Robots in Policing?"
-    rlink: "https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing"  
+    rlink: "https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing"
+  deliverables:  
+  - dtitle: "Final Project: Project and Presentation Handed Out"
+    dlink: "Projects/Final"    
+    points: 100       
 - week: "8"
   date: "1"
   title: "Design Principles"     
@@ -419,7 +423,11 @@ schedule:
   title: "" 
   readings:
   - rtitle: "How US Tech Giants are Helping to Build China's Surveillance State"
-    rlink: "https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/"    
+    rlink: "https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/"      
+  deliverables:
+  - dtitle: "Final Project: Proposal Due"
+    dlink: "Projects/Final"    
+    points: 10     
 - week: "9"
   date: "2"
   title: "Application of Affordances and Signifiers in Constrainted Environments"
@@ -430,11 +438,7 @@ schedule:
     rlink: false         
 - week: "10"
   date: "0"
-  title: ""  
-  deliverables:  
-  - dtitle: "Final Project: Project and Presentation Handed Out"
-    dlink: "Projects/Final"    
-    points: 100   
+  title: ""     
   readings:
   - rtitle: "Norman and Nielson - Gestural Interfaces: A Step Backward In Usability"
     rlink: "http://manoa.hawaii.edu/hci/readings/interactions2010_norman_nielsen.pdf"  
@@ -453,10 +457,9 @@ schedule:
   - rtitle: "Norman Ch. 5"
     rlink: false
   deliverables:
-  - dtitle: "Research Report: Research Report First Draft Due"
-    dlink: "Projects/Report"    
-    points: 25  
-    submission_types: "written"     
+  - dtitle: "Final Project: Design Plan Due"
+    dlink: "Projects/Final"    
+    points: 10    
 - week: "11"
   date: "0"
   title: ""   
@@ -467,7 +470,11 @@ schedule:
   - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out"    
     dlink: "Assignments/Reflections/NotebookCheck"
     points: 10
-    submission_types: "onpaper"        
+    submission_types: "onpaper"      
+  - dtitle: "Research Report: Research Report First Draft Due"
+    dlink: "Projects/Report"    
+    points: 25  
+    submission_types: "written"         
 - week: "11"
   date: "1"
   title: "" 
@@ -484,11 +491,7 @@ schedule:
     rlink: false         
 - week: "12"
   date: "0"
-  title: "Final Project Stakeholder Feedback Session"  
-  deliverables:
-  - dtitle: "Final Project: Proposal Due"
-    dlink: "Projects/Final"    
-    points: 10   
+  title: "Final Project Stakeholder Feedback Session"   
   readings: 
   - rtitle: "About the Paper that Forced Timnit Gerbu out of Google"
     rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"      
@@ -506,10 +509,6 @@ schedule:
     rlink: "https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/"  
   - rtitle: "Dissecting racial bias in an algorithm used to manage the health of populations"
     rlink: "https://www.science.org/doi/10.1126/science.aax2342"
-  deliverables:
-  - dtitle: "Final Project: Design Plan Due"
-    dlink: "Projects/Final"    
-    points: 25
 - week: "13"
   date: "0"
   title: ""  
