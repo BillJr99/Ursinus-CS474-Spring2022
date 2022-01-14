@@ -283,7 +283,7 @@ DTSTAMP:20220218T000000Z
 DTSTART;VALUE=DATE:20220218
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Motivating\nReading: The US military is trying to read minds https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/\nReading: Eyal Ch. 3
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Motivating\nReading: The US military is trying to read minds https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/\nReading: The Fogg Behavior Model https://behaviormodel.org/\nReading: Eyal Ch. 3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
