@@ -326,6 +326,8 @@ schedule:
   readings:
   - rtitle: "The Formula for Phone Addiction Might Double As a Cure"
     rlink: "https://www.wired.com/story/phone-addiction-formula/"  
+  - rlink: "https://uxplanet.org/storyboarding-and-user-interface-design-1786723aa605"
+    rtitle: "Katiyar, S. - Storyboarding and User Interface Design"    
 - week: "4"
   date: "2"
   title: "Motivating Action"
