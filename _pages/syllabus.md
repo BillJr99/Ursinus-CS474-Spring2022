@@ -335,6 +335,8 @@ schedule:
   readings:
   - rtitle: "The US military is trying to read minds"
     rlink: "https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/" 
+  - rlink: "https://behaviormodel.org/"
+    rtitle: "The Fogg Behavior Model"    
   - rtitle: "Eyal Ch. 3"
     rlink: false    
 - week: "5"

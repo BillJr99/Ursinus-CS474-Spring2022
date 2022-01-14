@@ -34,7 +34,8 @@ info:
         - "When do &quot;freemium&quot; applications tend to ask for microtransactions?  If the user declines, what might happen instead (hint - the user can typically continue playing for free anyway)?  Why is this a strategic choice?"   
         - "Imagine creating a new social network, and imagine that it is in some way better than your favorite existing social network.  Why might it fail in the market anyway, despite being an improvement?"        
         - "Imagine you observe a shopping application with a web-based shopping cart.  A user has had an item in their cart for over a day without checking out.  What are some external triggers that this application might employ to produce a call to action?  What other data might they utilize in the call to personalize the message?"
-
+        - "What are some ways that your favorite social media program keeps you engaged for longer periods of time?"
+        
 tags:
   - psychology
   
