@@ -22,6 +22,7 @@ info:
     - "Each item required for a grade of D is included"
     - "Each member of the group has a speaking role during the presentation"
     - "The project implementation is substantially correct and of reasonable human-centric design"
+    - "A substantial design plan is included in the submission which documents the UI/UX workflow, affordances and signifiers, modalities, design testing, based on stakeholder input obtained and documented for the report"    
     d:
     - "Each member of the group makes meaningful contributions to the implementation of the project, demonstrated through version control commits or comments in the code"
 
@@ -38,13 +39,17 @@ Finally, prepare as a team a project presentation that you will present live to 
 
 In addition to your implementation, be sure to include a LaTeX design report in academic journal format (you can use [Overleaf](https://www.overleaf.com/) for this purpose) that describes your initial design, rationale, stakeholder evaluation, and any subsequent revisions you made from your stakeholder input.
 
-## Group Formation
+## Group Formation and Proposal (10 Points)
 
 To form a group, students should draft a text document including the names of all students in the group, a summary of the proposed project, and a breakdown of each student's responsibilities on the team.  **Each student** should send this identical document to me for approval via e-mail.  I will respond via e-mail to the **entire** group notifying them that the project has been approved, and which members are on the team.  If I add or remove members from the team, I will notify the entire group via e-mail.  This shall constitute agreement of the project responsibilities by all members of the team.
 
-Students who do not submit the proposal document described above (even if they are named in another group's proposal) within 3 days of the project hand-out date will be assigned to a group and notified via e-mail.
+Students who do not submit the proposal document described above (even if they are named in another group's proposal) within 3 days of the project hand-out date will be assigned to a group and notified via e-mail.  Students will not receive credit for the proposal in this situation.
 
 Should a member of the team fail to participate to the standards set in the proposal document described above, one or more members of the group shall notify that student via e-mail of specific tasks from the proposal document that have been agreed to, along with a deadline to communicate with the group (copy me on the e-mail message).  If the student does not respond within 2 days of that message, the group should notify me via e-mail, and I will investigate and, if appropriate, I may re-organize the team by moving one or more members to other groups (whom I will notify via e-mail), or by removing the student from the group (whom I will notify via e-mail).  
+
+## Design Plan (25 Points)
+
+Before you begin, create a design plan in LaTeX that documents the UI/UX workflow, affordances and signifiers, modalities, design testing, based on stakeholder input obtained and documented for the report.
 
 ## Version Control 
 

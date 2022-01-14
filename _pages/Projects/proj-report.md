@@ -45,6 +45,10 @@ For your given topic, research several recent papers related to the topic.  You 
 
 Your goal is to formulate a thesis around your topic, survey the literature and summarize the current state-of-the-art in your chosen space, and then synthesize what you've read into a cohesive message supporting your thesis.  You should conclude with "Future Work" in which you summarize your vision for the field.  In other words: what do these papers provide that is beneficial, and what do they leave open for someone to use this state-of-the-art as a springboard to build upon?
 
+## First Draft (25 Points)
+
+Prepare a first draft for feedback, which you will incorporate into your final report
+
 ## Paper Format
 
 You should use LaTeX to format your report in academic journal format (you can use [Overleaf](https://www.overleaf.com/) for this purpose).  Your report should include:
