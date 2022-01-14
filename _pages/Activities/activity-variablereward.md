@@ -23,6 +23,7 @@ info:
       questions:
         - "In what ways do social media applications feature variable rewards, both individually and for the community?"
         - "Why do variable reward systems hold our engagement over predictable models?"
+        - "What are some examples of diminishing returns with variable rewards?"
 
 tags:
   - variablereward
