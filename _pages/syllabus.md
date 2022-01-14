@@ -304,6 +304,8 @@ schedule:
   readings:
   - rtitle: "ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says"
     rlink: "https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says" 
+  - rlink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=777644"
+    rtitle: "Gourville, J. - The Curse of Innovation: A Theory of Why Innovative New Products Fail in the Marketplace"    
   - rtitle: "Eyal Ch. 2"
     rlink: false    
 - week: "4"
@@ -421,7 +423,11 @@ schedule:
   - dtitle: "Assignment: Augmented Reality Due"
     dlink: "Assignments/Programming/AugmentedReality"
     points: 100  
-    rubricpath: "_pages/ProgrammingAssignments/asmt-ar.md"        
+    rubricpath: "_pages/ProgrammingAssignments/asmt-ar.md"
+  - dtitle: "Assignment: Online Tutor Handed Out"
+    dlink: "Assignments/Programming/Tutor"
+    points: 100
+    rubricpath: "_pages/ProgrammingAssignments/asmt-tutor.md"
   readings:
   - rtitle: "Evil by Design"
     rlink: "https://evilbydesign.info/"
@@ -501,7 +507,12 @@ schedule:
   link: "Activities/DesignThinking"
   readings:
   - rtitle: "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change"
-    rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581"          
+    rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581" 
+  deliverables: 
+  - dtitle: "Assignment: Online Tutor Handed Out"
+    dlink: "Assignments/Programming/Tutor"
+    points: 100
+    rubricpath: "_pages/ProgrammingAssignments/asmt-tutor.md"  
 - week: "11"
   date: "2"
   title: "Design Thinking"
