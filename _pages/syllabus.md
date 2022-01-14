@@ -417,6 +417,8 @@ schedule:
   readings:
   - rtitle: "Types of Design Principles"
     rlink: "https://www.interaction-design.org/literature/topics/design-principles" 
+  - rlink: "https://www.nngroup.com/articles/ten-usability-heuristics/"
+    rtitle: "10 Usability Heuristics for User Interface Design"    
   deliverables:    
   - dtitle: "Research Report: Research Report Handed Out"
     dlink: "Projects/Report"    

@@ -10,6 +10,8 @@ info:
   additional_reading:
     - link: "https://www.interaction-design.org/literature/topics/design-principles"
       title: "Types of Design Principles"
+    - link: "https://www.nngroup.com/articles/ten-usability-heuristics/"
+      title: "10 Usability Heuristics for User Interface Design"
     - link: "https://evilbydesign.info/"
       title: "Evil by Design"         
   models:
