@@ -470,6 +470,8 @@ schedule:
   readings:
   - rtitle: "Boeing 737 Max Safety System Was Vetoed, Engineer Says"
     rlink: "https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html"         
+  - rtitle: "Norman Ch. 5"
+    rlink: false    
 - week: "10"
   date: "0"
   title: "Informing Design by Observing Human Error"     
@@ -489,8 +491,6 @@ schedule:
   readings:
   - rtitle: "The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs"
     rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"
-  - rtitle: "Norman Ch. 5"
-    rlink: false
   deliverables:
   - dtitle: "Final Project: Design Plan Due"
     dlink: "Projects/Final"    
