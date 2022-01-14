@@ -26,6 +26,7 @@ info:
         - "Why are inaccuracies in collective memory sometimes of little consequence?"
         - "Try the <a href=\"https://www.verywellmind.com/a-short-term-memory-experiment-2795664\">Memory Experiment</a> on this page.  How many words were you able to remember?"
         - "How might software systems leverage the limitations on average short term memory to provide a better user experience?"
+        - "In Norman Figure 3.2, which control configuration is best and why?"
 
 tags:
   - psychology
