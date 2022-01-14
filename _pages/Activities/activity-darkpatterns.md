@@ -41,9 +41,9 @@ info:
       questions:
         - "How do people exploit human behaviors and needs?"
     - model: |
-        <iframe src="https://www.darkpatterns.org/types-of-dark-pattern" width="100%" height="800"></iframe>
+        <a href="https://www.darkpatterns.org/types-of-dark-pattern">Types of Dark Patterns</a>
         <br>
-        <img src="../files/USPS-foia-portal-404.gif" alt="Screencast of the USPS FOIA portal with links to required documents that lead to 404 not found pages">
+        <img src="../images/usps-dark-pattern/USPS-foia-portal-404.gif" alt="Screencast of the USPS FOIA portal with links to required documents that lead to 404 not found pages">
       title: Dark Patterns
       questions:
         - "Have you ever encountered a website whose registration was broken into multiple steps, in which the first step asks only for non-personal information, but the last step requires contact or payment information?  Which dark pattern does this fall into?"
