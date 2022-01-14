@@ -13,7 +13,9 @@ info:
     - link: "https://www.nngroup.com/articles/ten-usability-heuristics/"
       title: "10 Usability Heuristics for User Interface Design"
     - link: "https://evilbydesign.info/"
-      title: "Evil by Design"         
+      title: "Evil by Design" 
+    - link: false
+      title: "Norman Chapter 3"    
   models:
     - model: |
         <a href="https://www.interaction-design.org/literature/topics/design-principles"><img src="https://public-media.interaction-design.org/images/uploads/user-content/1445/T1dSG5N4ZdaaBrqyOVGMOI3Fe9JoeBg24XwQybAQ.jpeg" alt="Design Principles from interaction-design.org"></a>

@@ -447,7 +447,9 @@ schedule:
   link: "Activities/CollectiveMemory"
   readings:
   - rtitle: "You Snooze, You Lose: Insurers Make The Old Adage Literally True"
-    rlink: "https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true"   
+    rlink: "https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true" 
+  - rlink: "https://medium.com/@avimair/the-role-of-memory-in-hci-f92204a6980d"
+    rtitle: "Mair, A. - The Role of Memory in HCI"        
 - week: "9"
   date: "1"
   title: "Application of Affordances and Signifiers in Constrainted Environments"
