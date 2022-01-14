@@ -6,7 +6,7 @@ excerpt: "CS474: Human Computer Interaction - Leveraging Habits for Intuition"
 
 info: 
   goals: 
-    - abc
+    - To design a system for social benefit that leverages human habits to build intuition in the user experience
   additional_reading:
     - link: "https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing"
       title: "What Ethics Should Guide the Use of Robots in Policing?" 
