@@ -22,7 +22,7 @@ info:
     - "Each item required for a grade of D is included"
     - "Each member of the group has a speaking role during the presentation"
     - "The project implementation is substantially correct and of reasonable human-centric design"
-    - "A substantial design plan is included in the submission which documents the UI/UX workflow, affordances and signifiers, modalities, design testing, based on stakeholder input obtained and documented for the report"    
+    - "A substantial design plan is included in the submission which documents the requirements, UI/UX workflow, affordances and signifiers, modalities, design testing, based on stakeholder input obtained and documented for the report"    
     d:
     - "Each member of the group makes meaningful contributions to the implementation of the project, demonstrated through version control commits or comments in the code"
 
@@ -49,7 +49,7 @@ Should a member of the team fail to participate to the standards set in the prop
 
 ## Design Plan (25 Points)
 
-Before you begin, create a design plan in LaTeX that documents the UI/UX workflow, affordances and signifiers, modalities, design testing, based on stakeholder input obtained and documented for the report.
+Before you begin, create a design plan in LaTeX that documents the requirements, UI/UX workflow, affordances and signifiers, modalities, design testing, based on stakeholder input obtained and documented for the report.
 
 ## Version Control 
 

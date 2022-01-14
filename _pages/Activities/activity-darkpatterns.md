@@ -40,10 +40,13 @@ info:
         - "How do people exploit human behaviors and needs?"
     - model: |
         <iframe src="https://www.darkpatterns.org/types-of-dark-pattern" width="100%" height="800"></iframe>
+        <br>
+        <img src="../files/USPS-foia-portal-404.gif" alt="Screencast of the USPS FOIA portal with links to required documents that lead to 404 not found pages">
       title: Dark Patterns
       questions:
         - "Have you ever encountered a website whose registration was broken into multiple steps, in which the first step asks only for non-personal information, but the last step requires contact or payment information?  Which dark pattern does this fall into?"
         - "For each of the types of dark patterns discussed, identify some real examples that exemplify each from your own personal experience."
+        - "What kind of dark pattern(s) does the USPS example fall into?  What incentive might the USPS have in requiring forms that cannot be accessed?"
         
 tags:
   - darkpatterns
