@@ -226,7 +226,7 @@ schedule:
     submission_types: "onpaper"     
 - week: "1"
   date: "2"
-  title: ""   
+  title: "Course Tools - LaTeX and VirtualBox"   
   readings:
   - rtitle: "It's not you.  Phones are designed to be addicting."
     rlink: "https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple"   
@@ -278,7 +278,7 @@ schedule:
     rlink: "https://www.youtube.com/watch?v=LVWTQcZbLgY"
 - week: "3"
   date: "1"
-  title: ""  
+  title: "Psychology of HCI - Human Factors"  
   deliverables:
   - dtitle: "Assignment: Voice Prompts Due"
     dlink: "Assignments/Programming/VoicePrompt"
@@ -312,7 +312,7 @@ schedule:
     submission_types: "onpaper"          
 - week: "4"
   date: "1"
-  title: "" 
+  title: "Designing the User Experience (UX)" 
   readings:
   - rtitle: "The Formula for Phone Addiction Might Double As a Cure"
     rlink: "https://www.wired.com/story/phone-addiction-formula/"  
@@ -338,7 +338,7 @@ schedule:
     submission_types: "onpaper"    
 - week: "5"
   date: "1"
-  title: ""  
+  title: "Augmented Reality"  
   readings:
   - rtitle: "How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist"
     rlink: "https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3"      
@@ -367,13 +367,13 @@ schedule:
     rlink: "https://www.interaction-design.org/literature/article/the-bias-blind-spot-and-unconscious-bias-in-design"           
 - week: "6"
   date: "1"
-  title: "Variable Reward"  
+  title: "Bias in Design"  
   readings:
-  - rtitle: "Robot Rights? Let's Talk about Human Welfare Instead"
-    rlink: "https://arxiv.org/abs/2001.05046v1"   
+  - rtitle: "Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities"
+    rlink: "https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165"     
 - week: "6"
   date: "2"
-  title: "Leveraging Habits for Intuition"
+  title: "Variable Reward"
   readings:
   - rtitle: "A Code of Ethics for the Human-Robot Interaction Profession"
     rlink: "https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf"
@@ -381,7 +381,7 @@ schedule:
     rlink: false     
 - week: "8"
   date: "0"
-  title: "Ethics" 
+  title: "Leveraging Habits for Intuition" 
   readings:
   - rtitle: "What Ethics Should Guide the Use of Robots in Policing?"
     rlink: "https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing"
@@ -402,7 +402,7 @@ schedule:
     submission_types: "written"     
 - week: "8"
   date: "2"
-  title: "Collective Memory"
+  title: "Design Principles"
   deliverables:
   - dtitle: "Assignment: Augmented Reality Due"
     dlink: "Assignments/Programming/AugmentedReality"
@@ -415,13 +415,13 @@ schedule:
     rlink: false         
 - week: "9"
   date: "0"
-  title: "Robot Rights"
+  title: "Collective Memory"
   readings:
   - rtitle: "You Snooze, You Lose: Insurers Make The Old Adage Literally True"
     rlink: "https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true"   
 - week: "9"
   date: "1"
-  title: "" 
+  title: "Application of Affordances and Signifiers in Constrainted Environments" 
   readings:
   - rtitle: "How US Tech Giants are Helping to Build China's Surveillance State"
     rlink: "https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/"      
@@ -431,7 +431,7 @@ schedule:
     points: 10     
 - week: "9"
   date: "2"
-  title: "Application of Affordances and Signifiers in Constrainted Environments"
+  title: "Informing Design by Observing Human Error"
   readings:
   - rtitle: "Boeing 737 Max Safety System Was Vetoed, Engineer Says"
     rlink: "https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html" 
@@ -439,19 +439,19 @@ schedule:
     rlink: false         
 - week: "10"
   date: "0"
-  title: ""     
+  title: "Informing Design by Observing Human Error"     
   readings:
   - rtitle: "Norman and Nielson - Gestural Interfaces: A Step Backward In Usability"
     rlink: "http://manoa.hawaii.edu/hci/readings/interactions2010_norman_nielsen.pdf"  
 - week: "10"
   date: "1"
-  title: ""   
+  title: "Ethical Considerations"   
   readings:
   - rtitle: "How Robot Carers could be the Future for Lonely Elderly People"
     rlink: "https://www.independent.co.uk/life-style/gadgets-and-tech/features/robot-carer-elderly-people-loneliness-ageing-population-care-homes-a8659801.html"   
 - week: "10"
   date: "2"
-  title: "Informing Design by Observing Human Error"
+  title: "Ethical Considerations"
   readings:
   - rtitle: "The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs"
     rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"
@@ -463,10 +463,10 @@ schedule:
     points: 10    
 - week: "11"
   date: "0"
-  title: ""   
+  title: "Robot Rights"   
   readings:
-  - rtitle: "Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities"
-    rlink: "https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165"  
+  - rtitle: "Robot Rights? Let's Talk about Human Welfare Instead"
+    rlink: "https://arxiv.org/abs/2001.05046v1"  
   deliverables:
   - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out"    
     dlink: "Assignments/Reflections/NotebookCheck"
@@ -478,7 +478,7 @@ schedule:
     submission_types: "written"         
 - week: "11"
   date: "1"
-  title: "" 
+  title: "Design Thinking" 
   readings:
   - rtitle: "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change"
     rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581"          
@@ -504,7 +504,7 @@ schedule:
     rlink: "https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6"  
 - week: "12"
   date: "2"
-  title: ""
+  title: "Final Project Workshop"
   readings: 
   - rtitle: "A Health Care Algorithm Offered Less Care to Black Patients"
     rlink: "https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/"  
@@ -512,7 +512,7 @@ schedule:
     rlink: "https://www.science.org/doi/10.1126/science.aax2342"
 - week: "13"
   date: "0"
-  title: ""  
+  title: "Final Project Workshop"  
   readings: 
   - rtitle: "Ackerman, E. - My Fight With a Sidewalk Robot"
     rlink: "https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities"       
