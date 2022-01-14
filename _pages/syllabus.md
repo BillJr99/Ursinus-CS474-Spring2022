@@ -518,6 +518,10 @@ schedule:
   readings:
   - rtitle: "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change"
     rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581" 
+  - rlink: "https://uxplanet.org/principles-of-design-thinking-stages-of-design-thinking-b2cc219063ac"
+    rtitle: "Chathurika, H. - Principles of Design Thinking - Part 1"
+  - rlink: "https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process"
+    rtitle: "5 Stages in the Design Thinking Process"    
   deliverables: 
   - dtitle: "Assignment: Online Tutor Due"
     dlink: "Assignments/Programming/Tutor"
