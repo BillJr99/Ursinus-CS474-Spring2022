@@ -63,7 +63,7 @@ info:
         if __name__ == "__main__":
             main()
         ]]></script>     
-      title: Conditionals for Selective Execution with <code>if</code> Statements
+      title: Voice Prompts
       questions:
         - "How might you adapt this code for use in a text-based program you've written in the past?"
         - "What challenges might you anticipate when using a voice approach, particularly with respect to accessibility, and how might you address them?"
