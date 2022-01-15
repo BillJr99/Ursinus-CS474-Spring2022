@@ -142,7 +142,7 @@ goals:
 - goal: "To utilize multiple physiological modalities to facilitate accessible human interfaces and interactions"
 
 grade_breakdown:
-- category: "Assignments"
+- category: "Homework Assignments"
   weight: "40%"
 - category: "Reading Reflective Journals"
   weight: "20%"
@@ -185,7 +185,7 @@ schedule:
   title: "Course Overview"
   link: "/Ursinus-CS474-Overview"
   deliverables:
-  - dtitle: "Assignment: Warmup Handed Out"    
+  - dtitle: "Homework Assignment: Warmup Handed Out"    
     dlink: "Assignments/Written/Warmup"
     points: 15
     submission_types: "onpaper"  
@@ -196,7 +196,7 @@ schedule:
   - rtitle: "Bush, V. - As We May Think"
     rlink: "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
   deliverables:
-  - dtitle: "Assignment: The Mother of All Demos Handed Out"
+  - dtitle: "Homework Assignment: The Mother of All Demos Handed Out"
     dlink: "Assignments/Written/MOAD"  
     points: 100  
     submission_types: "written"       
@@ -220,7 +220,7 @@ schedule:
     rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/" 
      
   deliverables:
-  - dtitle: "Assignment: Warmup Due"    
+  - dtitle: "Homework Assignment: Warmup Due"    
     dlink: "Assignments/Written/Warmup"
     points: 15
     submission_types: "onpaper"     
@@ -234,7 +234,7 @@ schedule:
   - rtitle: "Norman Ch. 1"
     rlink: false    
   deliverables:
-  - dtitle: "Assignment: The Mother of All Demos Due"
+  - dtitle: "Homework Assignment: The Mother of All Demos Due"
     dlink: "Assignments/Written/MOAD"  
     points: 100  
     submission_types: "written" 
@@ -243,7 +243,7 @@ schedule:
   title: "The Way We Interact - Affordances and Signifiers" 
   link: "Activities/Interactions"
   deliverables:
-  - dtitle: "Assignment: Voice Prompts Handed Out"
+  - dtitle: "Homework Assignment: Voice Prompts Handed Out"
     dlink: "Assignments/Programming/VoicePrompt"
     points: 100  
     rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"  
@@ -286,11 +286,11 @@ schedule:
   date: "1"
   title: "Psychology of HCI - Human Factors"  
   deliverables:
-  - dtitle: "Assignment: Voice Prompts Due"
+  - dtitle: "Homework Assignment: Voice Prompts Due"
     dlink: "Assignments/Programming/VoicePrompt"
     points: 100  
     rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"  
-  - dtitle: "Assignment: Eye Tracking Handed Out"
+  - dtitle: "Homework Assignment: Eye Tracking Handed Out"
     dlink: "Assignments/Programming/EyeTracking"
     points: 100  
     rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"     
@@ -362,11 +362,11 @@ schedule:
   title: "Accessibility"
   link: "Activities/Accessibility"
   deliverables:
-  - dtitle: "Assignment: Eye Tracking Due"
+  - dtitle: "Homework Assignment: Eye Tracking Due"
     dlink: "Assignments/Programming/EyeTracking"
     points: 100  
     rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"       
-  - dtitle: "Assignment: Augmented Reality Handed Out"
+  - dtitle: "Homework Assignment: Augmented Reality Handed Out"
     dlink: "Assignments/Programming/AugmentedReality"
     points: 100  
     rubricpath: "_pages/ProgrammingAssignments/asmt-ar.md"      
@@ -428,11 +428,11 @@ schedule:
   date: "2"
   title: "Design Principles"
   deliverables:
-  - dtitle: "Assignment: Augmented Reality Due"
+  - dtitle: "Homework Assignment: Augmented Reality Due"
     dlink: "Assignments/Programming/AugmentedReality"
     points: 100  
     rubricpath: "_pages/ProgrammingAssignments/asmt-ar.md"
-  - dtitle: "Assignment: Online Tutor Handed Out"
+  - dtitle: "Homework Assignment: Online Tutor Handed Out"
     dlink: "Assignments/Programming/Tutor"
     points: 100
     rubricpath: "_pages/ProgrammingAssignments/asmt-tutor.md"
@@ -523,11 +523,11 @@ schedule:
   - rlink: "https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process"
     rtitle: "5 Stages in the Design Thinking Process"    
   deliverables: 
-  - dtitle: "Assignment: Online Tutor Due"
+  - dtitle: "Homework Assignment: Online Tutor Due"
     dlink: "Assignments/Programming/Tutor"
     points: 100
     rubricpath: "_pages/ProgrammingAssignments/asmt-tutor.md"  
-  - dtitle: "Assignment: Ethical Conserations and Case Studies Handed Out"
+  - dtitle: "Homework Assignment: Ethical Conserations and Case Studies Handed Out"
     dlink: "Assignments/Written/EthicalConsiderations"
     points: 100    
 - week: "11"
@@ -559,7 +559,7 @@ schedule:
   - rtitle: "Dissecting racial bias in an algorithm used to manage the health of populations"
     rlink: "https://www.science.org/doi/10.1126/science.aax2342"
   deliverables:
-  - dtitle: "Assignment: Ethical Conserations and Case Studies Handed Out"
+  - dtitle: "Homework Assignment: Ethical Conserations and Case Studies Handed Out"
     dlink: "Assignments/Written/EthicalConsiderations"
     points: 100      
 - week: "13"
