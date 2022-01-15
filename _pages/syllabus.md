@@ -91,7 +91,7 @@ instructors:
   picture: /images/profile.png
   officehours:
   - day: "M"
-    starttime: "12:00 PM"
+    starttime: "1:30 PM"
     endtime: "2:00 PM"
     location: "Pfahler Hall 101L"  
   - day: "T"
