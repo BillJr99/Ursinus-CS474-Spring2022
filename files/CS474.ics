@@ -92,7 +92,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042803
 DTSTAMP:20220119T000000Z
 DTSTART;VALUE=DATE:20220119
-SUMMARY:CS474 Human Computer Interaction: Assignment: Warmup Handed Out
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Warmup Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -103,14 +103,14 @@ DTSTAMP:20220119T000000Z
 DTSTART;VALUE=DATE:20220119
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022//Ursinus-CS474-Overview\nDeliverable: Assignment: Warmup Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/Warmup
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022//Ursinus-CS474-Overview\nDeliverable: Homework Assignment: Warmup Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/Warmup
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042805
 DTSTAMP:20220121T000000Z
 DTSTART;VALUE=DATE:20220121
-SUMMARY:CS474 Human Computer Interaction: Assignment: The Mother of All Demos Handed Out
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: The Mother of All Demos Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -121,7 +121,7 @@ DTSTAMP:20220121T000000Z
 DTSTART;VALUE=DATE:20220121
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Bush, V. - As We May Think https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/\nDeliverable: Assignment: The Mother of All Demos Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/MOAD
+DESCRIPTION:\nReading: Bush, V. - As We May Think https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/\nDeliverable: Homework Assignment: The Mother of All Demos Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/MOAD
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042808
 DTSTAMP:20220126T000000Z
 DTSTART;VALUE=DATE:20220126
-SUMMARY:CS474 Human Computer Interaction: Assignment: Warmup Due
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Warmup Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -148,14 +148,14 @@ DTSTAMP:20220126T000000Z
 DTSTART;VALUE=DATE:20220126
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/EyeTracking\nReading: 50 Years Later, We Still Don't Grasp the Mother of All Demos https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/\nDeliverable: Assignment: Warmup Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/Warmup
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/EyeTracking\nReading: 50 Years Later, We Still Don't Grasp the Mother of All Demos https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/\nDeliverable: Homework Assignment: Warmup Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/Warmup
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04280a
 DTSTAMP:20220128T000000Z
 DTSTART;VALUE=DATE:20220128
-SUMMARY:CS474 Human Computer Interaction: Assignment: The Mother of All Demos Due
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: The Mother of All Demos Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -166,14 +166,14 @@ DTSTAMP:20220128T000000Z
 DTSTART;VALUE=DATE:20220128
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/CourseTools\nReading: Haubursin, C. - It's not you.  Phones are designed to be addicting. https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple\nReading: Norman Ch. 1\nDeliverable: Assignment: The Mother of All Demos Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/MOAD
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/CourseTools\nReading: Haubursin, C. - It's not you.  Phones are designed to be addicting. https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple\nReading: Norman Ch. 1\nDeliverable: Homework Assignment: The Mother of All Demos Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/MOAD
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04280c
 DTSTAMP:20220131T000000Z
 DTSTART;VALUE=DATE:20220131
-SUMMARY:CS474 Human Computer Interaction: Assignment: Voice Prompts Handed Out
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Voice Prompts Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -184,7 +184,7 @@ DTSTAMP:20220131T000000Z
 DTSTART;VALUE=DATE:20220131
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Interactions\nReading: EU mulls five-year ban on facial recognition tech in public areas https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL\nReading: What are Affordances? https://www.interaction-design.org/literature/topics/affordances\nReading: What are Signifiers? https://www.interaction-design.org/literature/topics/signifiers\nDeliverable: Assignment: Voice Prompts Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/VoicePrompt
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Interactions\nReading: EU mulls five-year ban on facial recognition tech in public areas https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL\nReading: What are Affordances? https://www.interaction-design.org/literature/topics/affordances\nReading: What are Signifiers? https://www.interaction-design.org/literature/topics/signifiers\nDeliverable: Homework Assignment: Voice Prompts Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/VoicePrompt
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042811
 DTSTAMP:20220209T000000Z
 DTSTART;VALUE=DATE:20220209
-SUMMARY:CS474 Human Computer Interaction: Assignment: Voice Prompts Due
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Voice Prompts Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042812
 DTSTAMP:20220209T000000Z
 DTSTART;VALUE=DATE:20220209
-SUMMARY:CS474 Human Computer Interaction: Assignment: Eye Tracking Handed Out
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Eye Tracking Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -238,7 +238,7 @@ DTSTAMP:20220209T000000Z
 DTSTART;VALUE=DATE:20220209
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Mind-Controlled VR Game Really Works https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/\nDeliverable: Assignment: Voice Prompts Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/VoicePrompt\nDeliverable: Assignment: Eye Tracking Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/EyeTracking
+DESCRIPTION:\nReading: Mind-Controlled VR Game Really Works https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/\nDeliverable: Homework Assignment: Voice Prompts Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/VoicePrompt\nDeliverable: Homework Assignment: Eye Tracking Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/EyeTracking
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04281c
 DTSTAMP:20220225T000000Z
 DTSTART;VALUE=DATE:20220225
-SUMMARY:CS474 Human Computer Interaction: Assignment: Eye Tracking Due
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Eye Tracking Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -326,7 +326,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04281d
 DTSTAMP:20220225T000000Z
 DTSTART;VALUE=DATE:20220225
-SUMMARY:CS474 Human Computer Interaction: Assignment: Augmented Reality Handed Out
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Augmented Reality Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -337,7 +337,7 @@ DTSTAMP:20220225T000000Z
 DTSTART;VALUE=DATE:20220225
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Accessibility\nReading: Accessible Design for Users With Disabilities https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/\nReading: Eyal Ch. 4\nDeliverable: Assignment: Eye Tracking Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/EyeTracking\nDeliverable: Assignment: Augmented Reality Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/AugmentedReality
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/Accessibility\nReading: Accessible Design for Users With Disabilities https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/\nReading: Eyal Ch. 4\nDeliverable: Homework Assignment: Eye Tracking Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/EyeTracking\nDeliverable: Homework Assignment: Augmented Reality Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/AugmentedReality
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042826
 DTSTAMP:20220318T000000Z
 DTSTART;VALUE=DATE:20220318
-SUMMARY:CS474 Human Computer Interaction: Assignment: Augmented Reality Due
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Augmented Reality Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042827
 DTSTAMP:20220318T000000Z
 DTSTART;VALUE=DATE:20220318
-SUMMARY:CS474 Human Computer Interaction: Assignment: Online Tutor Handed Out
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Online Tutor Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -427,7 +427,7 @@ DTSTAMP:20220318T000000Z
 DTSTART;VALUE=DATE:20220318
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Evil by Design https://evilbydesign.info/\nReading: Norman Ch. 3\nDeliverable: Assignment: Augmented Reality Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/AugmentedReality\nDeliverable: Assignment: Online Tutor Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/Tutor
+DESCRIPTION:\nReading: Evil by Design https://evilbydesign.info/\nReading: Norman Ch. 3\nDeliverable: Homework Assignment: Augmented Reality Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/AugmentedReality\nDeliverable: Homework Assignment: Online Tutor Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/Tutor
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042834
 DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
-SUMMARY:CS474 Human Computer Interaction: Assignment: Online Tutor Due
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Online Tutor Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -542,7 +542,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042835
 DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
-SUMMARY:CS474 Human Computer Interaction: Assignment: Ethical Conserations and Case Studies Handed Out
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Ethical Conserations and Case Studies Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -553,7 +553,7 @@ DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DesignThinking\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581\nReading: Chathurika, H. - Principles of Design Thinking - Part 1 https://uxplanet.org/principles-of-design-thinking-stages-of-design-thinking-b2cc219063ac\nReading: 5 Stages in the Design Thinking Process https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process\nDeliverable: Assignment: Online Tutor Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/Tutor\nDeliverable: Assignment: Ethical Conserations and Case Studies Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/EthicalConsiderations
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DesignThinking\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581\nReading: Chathurika, H. - Principles of Design Thinking - Part 1 https://uxplanet.org/principles-of-design-thinking-stages-of-design-thinking-b2cc219063ac\nReading: 5 Stages in the Design Thinking Process https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process\nDeliverable: Homework Assignment: Online Tutor Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/Tutor\nDeliverable: Homework Assignment: Ethical Conserations and Case Studies Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/EthicalConsiderations
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -587,7 +587,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04283a
 DTSTAMP:20220415T000000Z
 DTSTART;VALUE=DATE:20220415
-SUMMARY:CS474 Human Computer Interaction: Assignment: Ethical Conserations and Case Studies Handed Out
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Ethical Conserations and Case Studies Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -598,7 +598,7 @@ DTSTAMP:20220415T000000Z
 DTSTART;VALUE=DATE:20220415
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patients https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/\nReading: Dissecting racial bias in an algorithm used to manage the health of populations https://www.science.org/doi/10.1126/science.aax2342\nDeliverable: Assignment: Ethical Conserations and Case Studies Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/EthicalConsiderations
+DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patients https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/\nReading: Dissecting racial bias in an algorithm used to manage the health of populations https://www.science.org/doi/10.1126/science.aax2342\nDeliverable: Homework Assignment: Ethical Conserations and Case Studies Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/EthicalConsiderations
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
