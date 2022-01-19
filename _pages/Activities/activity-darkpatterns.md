@@ -48,7 +48,7 @@ info:
       questions:
         - "Have you ever encountered a website whose registration was broken into multiple steps, in which the first step asks only for non-personal information, but the last step requires contact or payment information?  Which dark pattern does this fall into?"
         - "For each of the types of dark patterns discussed, identify some real examples that exemplify each from your own personal experience."
-        - "What kind of dark pattern(s) does the United States Postal Service (USPS) example fall into?  What incentive might the USPS have in requiring forms that cannot be accessed?"
+        - "What kind of dark pattern(s) does the United States Postal Service (USPS) example fall into?  What incentive might the USPS have in requiring forms that cannot be accessed?  Is an account required to submit this form (and why or why not)?  What protocols might you put into place to enable accessible reporting of issues such as these?"
         
 tags:
   - darkpatterns
