@@ -43,3 +43,10 @@ tags:
   - design
   
 ---
+
+<!--
+Listening session
+Speaking their language
+Surveying stakeholders
+Prototyping
+-->
