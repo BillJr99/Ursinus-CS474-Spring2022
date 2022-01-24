@@ -15,6 +15,10 @@ info:
       title: "Chathurika, H. - Principles of Design Thinking - Part 1"
     - link: "https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process"
       title: "5 Stages in the Design Thinking Process"
+    - link: "https://productmasterynow.com/blog/tei-135-a-product-innovation-process-based-on-design-thinking-with-gordon-stannis/"
+      title: "The Everyday Innovator Podcast Episode 135"
+    - link: "https://tarunchakravorty.medium.com/how-would-you-design-an-interface-for-a-1000-floor-elevator-31fbe5be6470"
+      title: "Designing a 1000 Floor Elevator Interface"
     - link: false
       title: "Norman Chapter 6"         
   models:
