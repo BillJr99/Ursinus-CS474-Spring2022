@@ -16,6 +16,8 @@ info:
       title: "Argawal, V. - Real-time eye tracking using OpenCV and Dlib"
   models:
     - model: |
+        <code>pip install opencv-python cmake dlib face_recognition numpy</code>
+        <br>
         <script src="https://gist.github.com/vardanagarwal/6e0d62f244d9d3280379689499bf990c.js"></script> 
         <br>
         <script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fstepacool%2FEye-Tracker%2Fblob%2FNo_GUI%2Ftrack.py&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on&fetchFromJsDelivr=on"></script>        
