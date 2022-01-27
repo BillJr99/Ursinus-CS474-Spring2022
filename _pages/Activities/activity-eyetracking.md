@@ -14,6 +14,8 @@ info:
       title: "Filonov, S. - Tracking your eyes with Python"
     - link: "https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6"
       title: "Argawal, V. - Real-time eye tracking using OpenCV and Dlib"
+    - link: "https://github.com/opencv/opencv/tree/master/data/haarcascades"
+      title: "Haar Cascade Training Data"
   models:
     - model: |
         <code>pip install opencv-python cmake dlib face_recognition numpy</code>
