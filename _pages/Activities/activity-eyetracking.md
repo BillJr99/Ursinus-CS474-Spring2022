@@ -16,6 +16,8 @@ info:
       title: "Argawal, V. - Real-time eye tracking using OpenCV and Dlib"
     - link: "https://github.com/opencv/opencv/tree/master/data/haarcascades"
       title: "Haar Cascade Training Data"
+    - link: "http://dlib.net/files/"
+      title: "dlib shape68 training files"
   models:
     - model: |
         <code>pip install opencv-python cmake dlib face_recognition numpy</code>
