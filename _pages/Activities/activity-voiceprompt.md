@@ -15,8 +15,9 @@ info:
         # https://github.com/acgrissom/courses/blob/master/2020-hci/hw1_voiceui.md
         # https://github.com/acgrissom/courses/blob/master/2020-hci/code/recognize_speech.py
         # sudo apt install portaudio19-dev libespeak-dev
+        # on mac: brew install portaudio
         # pip3 install pyaudio pyttsx3 speechrecognition
-        # alternatively: pip3 install pipwin && pipwin install pyaudio
+        # alternatively: pip3 install pipwin && python -m pipwin install pyaudio
 
         import speech_recognition as sr
         import pyttsx3

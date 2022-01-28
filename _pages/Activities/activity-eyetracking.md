@@ -18,10 +18,15 @@ info:
       title: "Haar Cascade Training Data"
     - link: "http://dlib.net/files/"
       title: "dlib shape68 training files"
+    - link: "https://cmake.org/download/"
+      title: "CMake dependency download"
   models:
     - model: |
-        <code>pip install opencv-python cmake dlib face_recognition numpy</code>
+        Download the <a href="https://visualstudio.microsoft.com/visual-cpp-build-tools/">Visual Studio installer</a> and install the "Desktop Development for C++" module.
         <br>
+        <code>pip install cmake && pip install wheel && pip install dlib && pip install opencv-python face_recognition numpy</code>
+        <br>
+        Alternatively: <code>git clone https://github.com/davisking/dlib.git && cd dlib && python setup.py install --user --no DLIB_GIF_SUPPORT</code>
         <script src="https://gist.github.com/vardanagarwal/6e0d62f244d9d3280379689499bf990c.js"></script> 
         <br>
         <script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fstepacool%2FEye-Tracker%2Fblob%2FNo_GUI%2Ftrack.py&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on&fetchFromJsDelivr=on"></script>        
