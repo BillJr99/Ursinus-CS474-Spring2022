@@ -6,7 +6,9 @@ excerpt: "CS474: Human Computer Interaction - The Way We Interact - Affordances 
 
 info: 
   goals: 
-    - abc
+    - To differentiate signifiers and affordances
+    - To identify signifiers in everyday life
+    - To identify potential shortcomings in both signifiers and affordances in technology
   additional_reading:
     - link: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"
       title: "50 Years Later, We Still Don't Grasp the Mother of All Demos"  
