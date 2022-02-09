@@ -6,7 +6,7 @@ excerpt: "CS474: Human Computer Interaction - Triggers"
 
 info: 
   goals: 
-    - abc
+    - To define technological triggers to human behavior in the context of Human Computer Interaction
   additional_reading:
     - link: "https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says"
       title: "ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says"
