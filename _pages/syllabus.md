@@ -11,7 +11,7 @@ info:
   course_title: "Human Computer Interaction"
   credit_hours: "4 Semester Hours"
   course_homepage: "https://www.billmongan.com/Ursinus-CS474-Spring2022/"
-  class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS173%20Fall%202022
+  class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS474%20Spring%202022
   ical: files/CS474.ics
   course_prerequisites: "CS275 Software Engineering"
   course_start_date: "2022/01/17"
