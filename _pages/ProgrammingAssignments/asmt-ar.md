@@ -46,7 +46,7 @@ info:
       rlink: "../../Activities/AugmentedReality"
     - rlink: "https://www.pyimagesearch.com/2021/01/04/opencv-augmented-reality-ar/"
       rtitle: "Rosebrock, A. - OpenCV Augmented Reality (AR)"
-    - rlink: "Creating your own image using numpy and opencv"
+    - rtitle: "Creating your own image using numpy and opencv"
       rlink: "https://theailearner.com/2018/10/22/create-own-image-using-numpy-and-opencv/"
 tags:
   - modalities
