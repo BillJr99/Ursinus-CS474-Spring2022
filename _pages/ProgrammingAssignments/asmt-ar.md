@@ -50,6 +50,8 @@ info:
       rlink: "https://theailearner.com/2018/10/22/create-own-image-using-numpy-and-opencv/"
     - rtitle: "Drawing Functions in OpenCV"
       rlink: "https://docs.opencv.org/4.x/dc/da5/tutorial_py_drawing_functions.html"
+    - rtitle: "Tracking ArUCo Markers"
+      rlink: "https://aliyasineser.medium.com/aruco-marker-tracking-with-opencv-8cb844c26628"
 tags:
   - modalities
   - eyetracking
