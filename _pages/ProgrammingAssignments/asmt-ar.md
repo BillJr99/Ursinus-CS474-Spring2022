@@ -58,7 +58,7 @@ tags:
   
 ---
 
-In this assignment, you will incorporate [the augmented reality](../Activities/AugmentedReality) program we explored in class into a user application.  Specifically, you will write a program to solve one of two problems:
+In this assignment, you will incorporate [the augmented reality](../../Activities/AugmentedReality) program we explored in class into a user application.  Specifically, you will write a program to solve one of two problems:
 
 * Wireless hotspot locations and relative signal strengths
 * A scavanger hunt / capture the flag game on campus using clues and hot/cold markers to inform the user
