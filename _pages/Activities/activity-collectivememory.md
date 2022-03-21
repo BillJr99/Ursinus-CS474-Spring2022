@@ -17,9 +17,9 @@ info:
       title: "Norman Chapters 1-3"    
   models:
     - model: |
-        <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/93566218_3934851039888377_31224596925513728_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8024bb&_nc_ohc=X-kiPSMMwRAAX8LPcKs&_nc_ht=scontent-lga3-2.xx&oh=00_AT_1Wd4n67FEDF7vN3WkzkXX9Kxi2fyCLy0PMOqSOk29YQ&oe=620724F5" alt="A commonly misquoted movie line">
+        <img src="https://1.bp.blogspot.com/-7Ua0cHG0XBs/XbDNsHp0ZRI/AAAAAAABIGk/xrXnoAtj5qYsbaGZvkzg_7Natqo-YtoEwCEwYBhgL/s1600/Luke%252C%2BI%2Bam%2Byour%2Bfather%2Bquote%2BTDIQ.jpg" alt="A commonly misquoted movie line">
         <br>
-        <iframe src="https://annex.exploratorium.edu/exhibits/common_cents/" width="100%" height="800"></iframe>
+        <a href="http://annex.exploratorium.edu/exhibits/common_cents/">Common Cents</a>
       title: Collective Memory
       questions:
         - "Why do you think incorrect memories like these persist?"
