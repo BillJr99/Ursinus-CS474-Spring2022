@@ -451,11 +451,7 @@ schedule:
   - rtitle: "How US Tech Giants are Helping to Build China's Surveillance State"
     rlink: "https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/"  
   - rtitle: "Norman Ch. 4"
-    rlink: false     
-  deliverables:
-  - dtitle: "Final Project: Proposal Due"
-    dlink: "Projects/Final"    
-    points: 10     
+    rlink: false        
 - week: "9"
   date: "2"
   title: "Informing Design by Observing Human Error"
@@ -464,7 +460,11 @@ schedule:
   - rtitle: "Boeing 737 Max Safety System Was Vetoed, Engineer Says"
     rlink: "https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html"         
   - rtitle: "Norman Ch. 5"
-    rlink: false    
+    rlink: false 
+  deliverables:
+  - dtitle: "Final Project: Proposal Due"
+    dlink: "Projects/Final"    
+    points: 10      
 - week: "10"
   date: "0"
   title: "Informing Design by Observing Human Error"     
