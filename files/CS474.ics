@@ -443,18 +443,18 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04282a
 DTSTAMP:20220323T000000Z
 DTSTART;VALUE=DATE:20220323
-SUMMARY:CS474 Human Computer Interaction: Final Project: Proposal Due
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/ConstrainedApplications\nReading: How US Tech Giants are Helping to Build China's Surveillance State https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/\nReading: Norman Ch. 4
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04282b
-DTSTAMP:20220323T000000Z
-DTSTART;VALUE=DATE:20220323
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
+DTSTAMP:20220325T000000Z
+DTSTART;VALUE=DATE:20220325
+SUMMARY:CS474 Human Computer Interaction: Final Project: Proposal Due
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/ConstrainedApplications\nReading: How US Tech Giants are Helping to Build China's Surveillance State https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/\nReading: Norman Ch. 4\nDeliverable: Final Project: Proposal Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
+DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -463,7 +463,7 @@ DTSTAMP:20220325T000000Z
 DTSTART;VALUE=DATE:20220325
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/ExperimentalObservation\nReading: Boeing 737 Max Safety System Was Vetoed, Engineer Says https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html\nReading: Norman Ch. 5
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/ExperimentalObservation\nReading: Boeing 737 Max Safety System Was Vetoed, Engineer Says https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html\nReading: Norman Ch. 5\nDeliverable: Final Project: Proposal Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
