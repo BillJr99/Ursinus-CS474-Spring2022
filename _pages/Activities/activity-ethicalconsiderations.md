@@ -20,7 +20,7 @@ info:
       title: "Reference Man - Everything is designed for this man, even drugs"   
     - link: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"
       title: "About the Paper that Forced Timnit Gerbu out of Google"   
-    - tilte: "Microsoft AI Principles"
+    - title: "Microsoft AI Principles"
       link: "https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6"   
     - link: "https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/"
       title: "A Health Care Algorithm Offered Less Care to Black Patients"   
