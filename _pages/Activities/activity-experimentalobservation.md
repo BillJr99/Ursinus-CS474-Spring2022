@@ -25,7 +25,11 @@ info:
         - "A tree test presents the user with the workflow steps, one step at a time, and allows the user to progress in a choose-your-adventure style.  What kinds of deficiencies might this kind of study reveal?"
         - "An A/B test evaluates if one call to action is more effective than another.  How might you employ this in a software system to evaluate different user interface designs or workflows?"
         - "What would likely happen in these studies if all the stakeholders in a medical application UX study had the same job title?"
-
+      embed: |
+        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/ProportionsHypothesisTest?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+        <br>
+        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/MeansTTest?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+        
 tags:
   - design
   
