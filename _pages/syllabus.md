@@ -483,11 +483,7 @@ schedule:
   title: "Ethical Considerations"
   readings:
   - rtitle: "The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs"
-    rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"
-  deliverables:
-  - dtitle: "Final Project: Design Plan Due"
-    dlink: "Projects/Final"    
-    points: 10    
+    rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"   
 - week: "11"
   date: "0"
   title: "Robot Rights" 
@@ -499,11 +495,7 @@ schedule:
   - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out"    
     dlink: "Assignments/Reflections/NotebookCheck"
     points: 10
-    submission_types: "onpaper"      
-  - dtitle: "Research Report: Research Report First Draft Due"
-    dlink: "Projects/Report"    
-    points: 25  
-    submission_types: "written"         
+    submission_types: "onpaper"             
 - week: "11"
   date: "1"
   title: "Design Thinking" 
@@ -516,13 +508,12 @@ schedule:
   - rlink: "https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process"
     rtitle: "5 Stages in the Design Thinking Process"    
   deliverables: 
-  - dtitle: "Homework Assignment: Online Tutor Due"
-    dlink: "Assignments/Programming/Tutor"
-    points: 100
-    rubricpath: "_pages/ProgrammingAssignments/asmt-tutor.md"  
   - dtitle: "Homework Assignment: Ethical Conserations and Case Studies Handed Out"
     dlink: "Assignments/Written/EthicalConsiderations"
-    points: 100    
+    points: 100   
+  - dtitle: "Final Project: Design Plan Due"
+    dlink: "Projects/Final"    
+    points: 10 
 - week: "11"
   date: "2"
   title: "Design Thinking"
@@ -530,13 +521,23 @@ schedule:
   - rtitle: "Reference Man - Everything is designed for this man, even drugs"
     rlink: "https://www.youtube.com/watch?v=CVdn-2KE2bs"
   - rtitle: "Norman Ch. 6"
-    rlink: false         
+    rlink: false 
+  deliverables:
+  - dtitle: "Homework Assignment: Online Tutor Due"
+    dlink: "Assignments/Programming/Tutor"
+    points: 100
+    rubricpath: "_pages/ProgrammingAssignments/asmt-tutor.md"  
 - week: "12"
   date: "0"
   title: "Final Project Stakeholder Feedback Session"   
   readings: 
   - rtitle: "About the Paper that Forced Timnit Gerbu out of Google"
-    rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"      
+    rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"    
+  deliverables:
+  - dtitle: "Research Report: Research Report First Draft Due"
+    dlink: "Projects/Report"    
+    points: 25  
+    submission_types: "written"  
 - week: "12"
   date: "1"
   title: "Final Project Stakeholder Feedback Session"  
@@ -574,12 +575,7 @@ schedule:
     submission_types: "onpaper"  
 - week: "13"
   date: "2"
-  title: "Final Project Collaboration and User Experience Study"
-  deliverables:
-  - dtitle: "Research Report: Research Report Due"
-    dlink: "Projects/Report"    
-    points: 100      
-    submission_types: "written"   
+  title: "Final Project Collaboration and User Experience Study"  
 - week: "14"
   date: "0"
   title: "Ethical Case Studies Presentations"     
@@ -588,7 +584,12 @@ schedule:
   title: "Research Report Final Presentation and Discussion"     
 - week: "14"
   date: "2"
-  title: "Research Report Final Presentation and Discussion"     
+  title: "Research Report Final Presentation and Discussion"  
+  deliverables:
+  - dtitle: "Research Report: Research Report Due"
+    dlink: "Projects/Report"    
+    points: 100      
+    submission_types: "written" 
 - week: "15"
   date: "0"
   title: "Research Report Final Presentation and Discussion"       
