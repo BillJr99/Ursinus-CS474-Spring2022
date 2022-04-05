@@ -1,4 +1,5 @@
 BEGIN:VCALENDAR
+PRODID:Syllabus2Ical
 VERSION:2.0
 BEGIN:VTIMEZONE
 TZID:US-Eastern
@@ -21,7 +22,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042800
-DTSTAMP:20220117T090000
+DTSTAMP;TZID=US-Eastern:20220117T090000
 DTSTART;TZID=US-Eastern:20220117T090000
 DTEND;TZID=US-Eastern:20220117T095000
 RRULE:FREQ=WEEKLY;BYDAY=MO;INTERVAL=1;UNTIL=20220505T235959Z
@@ -44,7 +45,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042801
-DTSTAMP:20220117T090000
+DTSTAMP;TZID=US-Eastern:20220117T090000
 DTSTART;TZID=US-Eastern:20220117T090000
 DTEND;TZID=US-Eastern:20220117T095000
 RRULE:FREQ=WEEKLY;BYDAY=WE;INTERVAL=1;UNTIL=20220505T235959Z
@@ -67,7 +68,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042802
-DTSTAMP:20220117T090000
+DTSTAMP;TZID=US-Eastern:20220117T090000
 DTSTART;TZID=US-Eastern:20220117T090000
 DTEND;TZID=US-Eastern:20220117T095000
 RRULE:FREQ=WEEKLY;BYDAY=FR;INTERVAL=1;UNTIL=20220505T235959Z
@@ -488,22 +489,13 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04282f
 DTSTAMP:20220401T000000Z
 DTSTART;VALUE=DATE:20220401
-SUMMARY:CS474 Human Computer Interaction: Final Project: Design Plan Due
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:\nReading: The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042830
-DTSTAMP:20220401T000000Z
-DTSTART;VALUE=DATE:20220401
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
-LOCATION:
-DESCRIPTION:\nReading: The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world\nDeliverable: Final Project: Design Plan Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042831
 DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out
@@ -512,34 +504,16 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042832
-DTSTAMP:20220404T000000Z
-DTSTART;VALUE=DATE:20220404
-SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report First Draft Due
-LOCATION:
-DESCRIPTION:
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042833
+UID:00000000-0000-0000-0000-044f9e042831
 DTSTAMP:20220404T000000Z
 DTSTART;VALUE=DATE:20220404
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/RobotRights\nReading: Robot Rights? Let's Talk about Human Welfare Instead https://arxiv.org/abs/2001.05046v1\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck\nDeliverable: Research Report: Research Report First Draft Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/RobotRights\nReading: Robot Rights? Let's Talk about Human Welfare Instead https://arxiv.org/abs/2001.05046v1\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042834
-DTSTAMP:20220406T000000Z
-DTSTART;VALUE=DATE:20220406
-SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Online Tutor Due
-LOCATION:
-DESCRIPTION:
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042835
+UID:00000000-0000-0000-0000-044f9e042832
 DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
 SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Ethical Conserations and Case Studies Handed Out
@@ -548,21 +522,48 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042836
+UID:00000000-0000-0000-0000-044f9e042833
+DTSTAMP:20220406T000000Z
+DTSTART;VALUE=DATE:20220406
+SUMMARY:CS474 Human Computer Interaction: Final Project: Design Plan Due
+LOCATION:
+DESCRIPTION:
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e042834
 DTSTAMP:20220406T000000Z
 DTSTART;VALUE=DATE:20220406
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DesignThinking\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581\nReading: Chathurika, H. - Principles of Design Thinking - Part 1 https://uxplanet.org/principles-of-design-thinking-stages-of-design-thinking-b2cc219063ac\nReading: 5 Stages in the Design Thinking Process https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process\nDeliverable: Homework Assignment: Online Tutor Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/Tutor\nDeliverable: Homework Assignment: Ethical Conserations and Case Studies Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/EthicalConsiderations
+DESCRIPTION:https://www.billmongan.com/Ursinus-CS474-Spring2022/Activities/DesignThinking\nReading: Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change https://journals.sagepub.com/doi/full/10.1177/2378023121999581\nReading: Chathurika, H. - Principles of Design Thinking - Part 1 https://uxplanet.org/principles-of-design-thinking-stages-of-design-thinking-b2cc219063ac\nReading: 5 Stages in the Design Thinking Process https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process\nDeliverable: Homework Assignment: Ethical Conserations and Case Studies Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/EthicalConsiderations\nDeliverable: Final Project: Design Plan Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Final
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042837
+UID:00000000-0000-0000-0000-044f9e042835
+DTSTAMP:20220408T000000Z
+DTSTART;VALUE=DATE:20220408
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Online Tutor Due
+LOCATION:
+DESCRIPTION:
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e042836
 DTSTAMP:20220408T000000Z
 DTSTART;VALUE=DATE:20220408
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Reference Man - Everything is designed for this man, even drugs https://www.youtube.com/watch?v=CVdn-2KE2bs\nReading: Norman Ch. 6
+DESCRIPTION:\nReading: Reference Man - Everything is designed for this man, even drugs https://www.youtube.com/watch?v=CVdn-2KE2bs\nReading: Norman Ch. 6\nDeliverable: Homework Assignment: Online Tutor Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/Tutor
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e042837
+DTSTAMP:20220411T000000Z
+DTSTART;VALUE=DATE:20220411
+SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report First Draft Due
+LOCATION:
+DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -571,7 +572,7 @@ DTSTAMP:20220411T000000Z
 DTSTART;VALUE=DATE:20220411
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
+DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/\nDeliverable: Research Report: Research Report First Draft Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -632,22 +633,13 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04283f
 DTSTAMP:20220422T000000Z
 DTSTART;VALUE=DATE:20220422
-SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report Due
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042840
-DTSTAMP:20220422T000000Z
-DTSTART;VALUE=DATE:20220422
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
-LOCATION:
-DESCRIPTION:\nDeliverable: Research Report: Research Report Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042841
 DTSTAMP:20220425T000000Z
 DTSTART;VALUE=DATE:20220425
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -656,10 +648,19 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042842
+UID:00000000-0000-0000-0000-044f9e042841
 DTSTAMP:20220427T000000Z
 DTSTART;VALUE=DATE:20220427
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
+LOCATION:
+DESCRIPTION:
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e042842
+DTSTAMP:20220429T000000Z
+DTSTART;VALUE=DATE:20220429
+SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -670,7 +671,7 @@ DTSTAMP:20220429T000000Z
 DTSTART;VALUE=DATE:20220429
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:\nDeliverable: Research Report: Research Report Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -693,7 +694,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042846
-DTSTAMP:20220117T120000
+DTSTAMP;TZID=US-Eastern:20220117T120000
 DTSTART;TZID=US-Eastern:20220117T120000
 DTEND;TZID=US-Eastern:20220117T123000
 RRULE:FREQ=WEEKLY;BYDAY=MO;INTERVAL=1;UNTIL=20220505T235959Z
@@ -716,7 +717,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042847
-DTSTAMP:20220117T120000
+DTSTAMP;TZID=US-Eastern:20220117T120000
 DTSTART;TZID=US-Eastern:20220117T120000
 DTEND;TZID=US-Eastern:20220117T140000
 RRULE:FREQ=WEEKLY;BYDAY=TU;INTERVAL=1;UNTIL=20220505T235959Z
@@ -739,7 +740,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042848
-DTSTAMP:20220117T120000
+DTSTAMP;TZID=US-Eastern:20220117T120000
 DTSTART;TZID=US-Eastern:20220117T120000
 DTEND;TZID=US-Eastern:20220117T140000
 RRULE:FREQ=WEEKLY;BYDAY=WE;INTERVAL=1;UNTIL=20220505T235959Z
@@ -762,7 +763,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042849
-DTSTAMP:20220117T120000
+DTSTAMP;TZID=US-Eastern:20220117T120000
 DTSTART;TZID=US-Eastern:20220117T120000
 DTEND;TZID=US-Eastern:20220117T140000
 RRULE:FREQ=WEEKLY;BYDAY=FR;INTERVAL=1;UNTIL=20220505T235959Z
@@ -785,9 +786,9 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04284a
-DTSTAMP:20220511T130000
-DTSTART;VALUE=DATE:20220511T130000
-DTEND;VALUE=DATE:20220511T160000
+DTSTAMP;TZID=US-Eastern:20220511T130000
+DTSTART;TZID=US-Eastern:20220511T130000
+DTEND;TZID=US-Eastern:20220511T160000
 SUMMARY:CS474 Human Computer Interaction: Final Exam
 LOCATION:PFA 007
 DESCRIPTION:
