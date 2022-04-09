@@ -561,22 +561,13 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042837
 DTSTAMP:20220411T000000Z
 DTSTART;VALUE=DATE:20220411
-SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report First Draft Due
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042838
-DTSTAMP:20220411T000000Z
-DTSTART;VALUE=DATE:20220411
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
-LOCATION:
-DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/\nDeliverable: Research Report: Research Report First Draft Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042839
 DTSTAMP:20220413T000000Z
 DTSTART;VALUE=DATE:20220413
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -585,55 +576,64 @@ DESCRIPTION:\nReading: Microsoft AI Principles https://www.microsoft.com/en-us/a
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04283a
+UID:00000000-0000-0000-0000-044f9e042839
 DTSTAMP:20220415T000000Z
 DTSTART;VALUE=DATE:20220415
-SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Ethical Conserations and Case Studies Handed Out
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
+LOCATION:
+DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patients https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/\nReading: Dissecting racial bias in an algorithm used to manage the health of populations https://www.science.org/doi/10.1126/science.aax2342
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e04283a
+DTSTAMP:20220418T000000Z
+DTSTART;VALUE=DATE:20220418
+SUMMARY:CS474 Human Computer Interaction: Research Report: Research Report First Draft Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04283b
-DTSTAMP:20220415T000000Z
-DTSTART;VALUE=DATE:20220415
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
-LOCATION:
-DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patients https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/\nReading: Dissecting racial bias in an algorithm used to manage the health of populations https://www.science.org/doi/10.1126/science.aax2342\nDeliverable: Homework Assignment: Ethical Conserations and Case Studies Handed Out https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/EthicalConsiderations
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e04283c
 DTSTAMP:20220418T000000Z
 DTSTART;VALUE=DATE:20220418
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Ackerman, E. - My Fight With a Sidewalk Robot https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities
+DESCRIPTION:\nReading: Ackerman, E. - My Fight With a Sidewalk Robot https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities\nDeliverable: Research Report: Research Report First Draft Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Projects/Report
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e04283c
+DTSTAMP:20220420T000000Z
+DTSTART;VALUE=DATE:20220420
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
+LOCATION:
+DESCRIPTION:\nReading: Gonzales-Cameron, A. - Hello, My Name is Error https://alistapart.com/article/hello-my-name-is-error/
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04283d
-DTSTAMP:20220420T000000Z
-DTSTART;VALUE=DATE:20220420
-SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: Second Notebook and Discussion Board Check Due
+DTSTAMP:20220422T000000Z
+DTSTART;VALUE=DATE:20220422
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Ethical Conserations and Case Studies Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04283e
-DTSTAMP:20220420T000000Z
-DTSTART;VALUE=DATE:20220420
+DTSTAMP:20220422T000000Z
+DTSTART;VALUE=DATE:20220422
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Gonzales-Cameron, A. - Hello, My Name is Error https://alistapart.com/article/hello-my-name-is-error/\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
+DESCRIPTION:\nDeliverable: Homework Assignment: Ethical Conserations and Case Studies Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Written/EthicalConsiderations
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e04283f
-DTSTAMP:20220422T000000Z
-DTSTART;VALUE=DATE:20220422
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
+DTSTAMP:20220425T000000Z
+DTSTART;VALUE=DATE:20220425
+SUMMARY:CS474 Human Computer Interaction: Reading Reflective Journal: Second Notebook and Discussion Board Check Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -644,7 +644,7 @@ DTSTAMP:20220425T000000Z
 DTSTART;VALUE=DATE:20220425
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:\nDeliverable: Reading Reflective Journal: Second Notebook and Discussion Board Check Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Reflections/NotebookCheck
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
