@@ -508,7 +508,7 @@ schedule:
   - rlink: "https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process"
     rtitle: "5 Stages in the Design Thinking Process"    
   deliverables: 
-  - dtitle: "Homework Assignment: Ethical Conserations and Case Studies Handed Out"
+  - dtitle: "Homework Assignment: Ethical Considerations and Case Studies Handed Out"
     dlink: "Assignments/Written/EthicalConsiderations"
     points: 100   
   - dtitle: "Final Project: Design Plan Due"
@@ -568,7 +568,7 @@ schedule:
   date: "2"
   title: "Final Project Collaboration and User Experience Study"  
   deliverables:
-  - dtitle: "Homework Assignment: Ethical Conserations and Case Studies Due"
+  - dtitle: "Homework Assignment: Ethical Considerations and Case Studies Due"
     dlink: "Assignments/Written/EthicalConsiderations"
     points: 100   
 - week: "14"
