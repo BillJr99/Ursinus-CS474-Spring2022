@@ -532,12 +532,7 @@ schedule:
   title: "Final Project Stakeholder Feedback Session"   
   readings: 
   - rtitle: "About the Paper that Forced Timnit Gerbu out of Google"
-    rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"    
-  deliverables:
-  - dtitle: "Research Report: Research Report First Draft Due"
-    dlink: "Projects/Report"    
-    points: 25  
-    submission_types: "written"  
+    rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"     
 - week: "12"
   date: "1"
   title: "Final Project Stakeholder Feedback Session"  
@@ -551,34 +546,39 @@ schedule:
   - rtitle: "A Health Care Algorithm Offered Less Care to Black Patients"
     rlink: "https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/"  
   - rtitle: "Dissecting racial bias in an algorithm used to manage the health of populations"
-    rlink: "https://www.science.org/doi/10.1126/science.aax2342"
-  deliverables:
-  - dtitle: "Homework Assignment: Ethical Conserations and Case Studies Handed Out"
-    dlink: "Assignments/Written/EthicalConsiderations"
-    points: 100      
+    rlink: "https://www.science.org/doi/10.1126/science.aax2342"     
 - week: "13"
   date: "0"
   title: "Final Project Workshop"  
   readings: 
   - rtitle: "Ackerman, E. - My Fight With a Sidewalk Robot"
-    rlink: "https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities"       
+    rlink: "https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities" 
+  deliverables:
+  - dtitle: "Research Report: Research Report First Draft Due"
+    dlink: "Projects/Report"    
+    points: 25  
+    submission_types: "written"     
 - week: "13"
   date: "1"
   title: "Final Project Collaboration and User Experience Study"  
   readings: 
   - rtitle: "Gonzales-Cameron, A. - Hello, My Name is Error"
     rlink: "https://alistapart.com/article/hello-my-name-is-error/"   
+- week: "13"
+  date: "2"
+  title: "Final Project Collaboration and User Experience Study"  
+  deliverables:
+  - dtitle: "Homework Assignment: Ethical Conserations and Case Studies Due"
+    dlink: "Assignments/Written/EthicalConsiderations"
+    points: 100   
+- week: "14"
+  date: "0"
+  title: "Ethical Case Studies Presentations"     
   deliverables:
   - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Due"    
     dlink: "Assignments/Reflections/NotebookCheck"
     points: 10
-    submission_types: "onpaper"  
-- week: "13"
-  date: "2"
-  title: "Final Project Collaboration and User Experience Study"  
-- week: "14"
-  date: "0"
-  title: "Ethical Case Studies Presentations"     
+    submission_types: "onpaper"    
 - week: "14"
   date: "1"
   title: "Research Report Final Presentation and Discussion"     
