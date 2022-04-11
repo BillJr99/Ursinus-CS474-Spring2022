@@ -543,22 +543,13 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042835
 DTSTAMP:20220408T000000Z
 DTSTART;VALUE=DATE:20220408
-SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Online Tutor Due
+SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:
+DESCRIPTION:\nReading: Reference Man - Everything is designed for this man, even drugs https://www.youtube.com/watch?v=CVdn-2KE2bs\nReading: Norman Ch. 6
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042836
-DTSTAMP:20220408T000000Z
-DTSTART;VALUE=DATE:20220408
-SUMMARY:CS474 Human Computer Interaction: Class Meeting
-LOCATION:
-DESCRIPTION:\nReading: Reference Man - Everything is designed for this man, even drugs https://www.youtube.com/watch?v=CVdn-2KE2bs\nReading: Norman Ch. 6\nDeliverable: Homework Assignment: Online Tutor Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/Tutor
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042837
 DTSTAMP:20220411T000000Z
 DTSTART;VALUE=DATE:20220411
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -567,7 +558,7 @@ DESCRIPTION:\nReading: About the Paper that Forced Timnit Gerbu out of Google ht
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-044f9e042838
+UID:00000000-0000-0000-0000-044f9e042837
 DTSTAMP:20220413T000000Z
 DTSTART;VALUE=DATE:20220413
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
@@ -576,12 +567,21 @@ DESCRIPTION:\nReading: Microsoft AI Principles https://www.microsoft.com/en-us/a
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
+UID:00000000-0000-0000-0000-044f9e042838
+DTSTAMP:20220415T000000Z
+DTSTART;VALUE=DATE:20220415
+SUMMARY:CS474 Human Computer Interaction: Homework Assignment: Online Tutor Due
+LOCATION:
+DESCRIPTION:
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
 UID:00000000-0000-0000-0000-044f9e042839
 DTSTAMP:20220415T000000Z
 DTSTART;VALUE=DATE:20220415
 SUMMARY:CS474 Human Computer Interaction: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patients https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/\nReading: Dissecting racial bias in an algorithm used to manage the health of populations https://www.science.org/doi/10.1126/science.aax2342
+DESCRIPTION:\nReading: A Health Care Algorithm Offered Less Care to Black Patients https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/\nReading: Dissecting racial bias in an algorithm used to manage the health of populations https://www.science.org/doi/10.1126/science.aax2342\nDeliverable: Homework Assignment: Online Tutor Due https://www.billmongan.com/Ursinus-CS474-Spring2022/Assignments/Programming/Tutor
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
