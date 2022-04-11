@@ -507,10 +507,7 @@ schedule:
     rtitle: "Chathurika, H. - Principles of Design Thinking - Part 1"
   - rlink: "https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process"
     rtitle: "5 Stages in the Design Thinking Process"    
-  deliverables: 
-  - dtitle: "Homework Assignment: Ethical Considerations and Case Studies Handed Out"
-    dlink: "Assignments/Written/EthicalConsiderations"
-    points: 100   
+  deliverables:  
   - dtitle: "Final Project: Design Plan Due"
     dlink: "Projects/Final"    
     points: 10 
@@ -566,14 +563,11 @@ schedule:
     rlink: "https://alistapart.com/article/hello-my-name-is-error/"   
 - week: "13"
   date: "2"
-  title: "Final Project Collaboration and User Experience Study"  
-  deliverables:
-  - dtitle: "Homework Assignment: Ethical Considerations and Case Studies Due"
-    dlink: "Assignments/Written/EthicalConsiderations"
-    points: 100   
+  title: "Final Project Collaboration and User Experience Study"   
 - week: "14"
   date: "0"
-  title: "Ethical Case Studies Presentations"     
+  title: "Ethical Case Studies Presentations"  
+  link: "Assignments/Written/EthicalConsiderations"
   deliverables:
   - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Due"    
     dlink: "Assignments/Reflections/NotebookCheck"
