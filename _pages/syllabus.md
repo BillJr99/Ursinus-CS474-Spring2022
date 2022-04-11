@@ -522,11 +522,6 @@ schedule:
     rlink: "https://www.youtube.com/watch?v=CVdn-2KE2bs"
   - rtitle: "Norman Ch. 6"
     rlink: false 
-  deliverables:
-  - dtitle: "Homework Assignment: Online Tutor Due"
-    dlink: "Assignments/Programming/Tutor"
-    points: 100
-    rubricpath: "_pages/ProgrammingAssignments/asmt-tutor.md"  
 - week: "12"
   date: "0"
   title: "Final Project Stakeholder Feedback Session"   
@@ -546,7 +541,12 @@ schedule:
   - rtitle: "A Health Care Algorithm Offered Less Care to Black Patients"
     rlink: "https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/"  
   - rtitle: "Dissecting racial bias in an algorithm used to manage the health of populations"
-    rlink: "https://www.science.org/doi/10.1126/science.aax2342"     
+    rlink: "https://www.science.org/doi/10.1126/science.aax2342"  
+  deliverables:
+  - dtitle: "Homework Assignment: Online Tutor Due"
+    dlink: "Assignments/Programming/Tutor"
+    points: 100
+    rubricpath: "_pages/ProgrammingAssignments/asmt-tutor.md"  
 - week: "13"
   date: "0"
   title: "Final Project Workshop"  
