@@ -464,7 +464,8 @@ schedule:
   deliverables:
   - dtitle: "Final Project: Proposal Due"
     dlink: "Projects/Final"    
-    points: 10      
+    points: 10     
+    submission_types: "written" 
 - week: "10"
   date: "0"
   title: "Informing Design by Observing Human Error"     
@@ -511,6 +512,7 @@ schedule:
   - dtitle: "Final Project: Design Plan Due"
     dlink: "Projects/Final"    
     points: 10 
+    submission_types: "written"
 - week: "11"
   date: "2"
   title: "Design Thinking"
