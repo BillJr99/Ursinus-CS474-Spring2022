@@ -17,6 +17,8 @@ info:
       title: "Glossary of HCI - Human Factors"
     - link: "https://xd.adobe.com/ideas/process/information-architecture/6-ways-to-reduce-cognitive-load-for-a-better-ui/"
       title: "Adobe - 6 Ways to Reduce Cognitive Load"    
+    - link: "https://en.wikipedia.org/wiki/Hick%27s_law"
+      title: "Hick's Law"
   models:
     - model: |
         <iframe src="https://www.pcjs.org/software/pcx86/sys/windows/1.01/" width="100%" height="800"></iframe>
@@ -36,6 +38,7 @@ info:
         - "What other human factors might you account for when designing a software system?"
         - "How and when should you evaluate the speed-accuracy tradeoff and other physiological and psychological human factors?"
         - "How might human factors considerations change under different modalities; for example, looking at a button to click on it versus tapping it with a finger?"
+        - "Give your partner a number of choices (for example, where to go for lunch) for two or three questions, and measure how long it takes them to make a decision.  Plot the time versus the number of choices.  What do you observe?  Did it follow the model given by <a href=\"https://en.wikipedia.org/wiki/Hick%27s_law\">Hick's Law</a>?"
         
 tags:
   - humanfactors
