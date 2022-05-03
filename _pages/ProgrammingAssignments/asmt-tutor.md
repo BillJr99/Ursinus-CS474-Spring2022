@@ -13,15 +13,15 @@ info:
     - weight: 20 
       description: Human-Centric Design
       preemerging: A trivial application of the modality is provided without regard to proper signifiers or affordances to facilitate human interaction
-      beginning: Some consideration is given to the manner by which a voice modality is incorporated into the program, but it is not clear at all times to the user what to do and how to interact
-      progressing: The user is able to interact with the program using the voice modality in most cases, with a few minor ambiguities that could be identified through additional testing
-      proficient: The user experience is enhanced by the use of a voice modality
+      beginning: Some consideration is given to the manner by which the modality is incorporated into the program, but it is not clear at all times to the user what to do and how to interact
+      progressing: The user is able to interact with the program using the modality in most cases, with a few minor ambiguities that could be identified through additional testing
+      proficient: The user experience is enhanced by the use of the modality
     - weight: 20
       description: Design Report      
       preemerging: No design report is included
-      beginning: A design report is included that describes the approach taken to solving the problem and incorporating the voice modality in a trivial way
-      progressing: A design report is included that describes the approach taken to solving the problem and incorporating the voice modality in a manner that carefully considers the problem from the perspective of one stakeholder
-      proficient: A design report is included that describes the approach taken to solving the problem and incorporating the voice modality through documented discussions and test cases with a variety of stakeholders
+      beginning: A design report is included that describes the approach taken to solving the problem and incorporating the modality in a trivial way
+      progressing: A design report is included that describes the approach taken to solving the problem and incorporating the modality in a manner that carefully considers the problem from the perspective of one stakeholder
+      proficient: A design report is included that describes the approach taken to solving the problem and incorporating the modality through documented discussions and test cases with a variety of stakeholders
     - weight: 30
       description: Algorithm Implementation
       preemerging: The algorithm fails on the test inputs due to major issues, or the program fails to compile and/or run
